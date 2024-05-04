@@ -1,0 +1,4002 @@
+{
+ "0": {
+  "chinese_name": "丁鲷",
+  "doc_name": "n01440764"
+ },
+ "1": {
+  "chinese_name": "金鱼",
+  "doc_name": "n01443537"
+ },
+ "2": {
+  "chinese_name": "大白鲨",
+  "doc_name": "n01484850"
+ },
+ "3": {
+  "chinese_name": "虎鲨",
+  "doc_name": "n01491361"
+ },
+ "4": {
+  "chinese_name": "锤头鲨",
+  "doc_name": "n01494475"
+ },
+ "5": {
+  "chinese_name": "电鳐",
+  "doc_name": "n01496331"
+ },
+ "6": {
+  "chinese_name": "黄貂鱼",
+  "doc_name": "n01498041"
+ },
+ "7": {
+  "chinese_name": "公鸡",
+  "doc_name": "n01514668"
+ },
+ "8": {
+  "chinese_name": "母鸡",
+  "doc_name": "n01514859"
+ },
+ "9": {
+  "chinese_name": "鸵鸟",
+  "doc_name": "n01518878"
+ },
+ "10": {
+  "chinese_name": "燕雀",
+  "doc_name": "n01530575"
+ },
+ "11": {
+  "chinese_name": "金翅雀",
+  "doc_name": "n01531178"
+ },
+ "12": {
+  "chinese_name": "家朱雀",
+  "doc_name": "n01532829"
+ },
+ "13": {
+  "chinese_name": "灯芯草雀",
+  "doc_name": "n01534433"
+ },
+ "14": {
+  "chinese_name": "靛蓝雀",
+  "doc_name": "n01537544"
+ },
+ "15": {
+  "chinese_name": "蓝鹀",
+  "doc_name": "n01558993"
+ },
+ "16": {
+  "chinese_name": "夜莺",
+  "doc_name": "n01560419"
+ },
+ "17": {
+  "chinese_name": "松鸦",
+  "doc_name": "n01580077"
+ },
+ "18": {
+  "chinese_name": "喜鹊",
+  "doc_name": "n01582220"
+ },
+ "19": {
+  "chinese_name": "山雀",
+  "doc_name": "n01592084"
+ },
+ "20": {
+  "chinese_name": "河鸟",
+  "doc_name": "n01601694"
+ },
+ "21": {
+  "chinese_name": "鸢（猛禽）",
+  "doc_name": "n01608432"
+ },
+ "22": {
+  "chinese_name": "秃头鹰",
+  "doc_name": "n01614925"
+ },
+ "23": {
+  "chinese_name": "秃鹫",
+  "doc_name": "n01616318"
+ },
+ "24": {
+  "chinese_name": "大灰猫头鹰",
+  "doc_name": "n01622779"
+ },
+ "25": {
+  "chinese_name": "欧洲火蝾螈",
+  "doc_name": "n01629819"
+ },
+ "26": {
+  "chinese_name": "普通蝾螈",
+  "doc_name": "n01630670"
+ },
+ "27": {
+  "chinese_name": "水蜥",
+  "doc_name": "n01631663"
+ },
+ "28": {
+  "chinese_name": "斑点蝾螈",
+  "doc_name": "n01632458"
+ },
+ "29": {
+  "chinese_name": "蝾螈",
+  "doc_name": "n01632777"
+ },
+ "30": {
+  "chinese_name": "牛蛙",
+  "doc_name": "n01641577"
+ },
+ "31": {
+  "chinese_name": "树蛙",
+  "doc_name": "n01644373"
+ },
+ "32": {
+  "chinese_name": "尾蛙",
+  "doc_name": "n01644900"
+ },
+ "33": {
+  "chinese_name": "红海龟",
+  "doc_name": "n01664065"
+ },
+ "34": {
+  "chinese_name": "皮革龟",
+  "doc_name": "n01665541"
+ },
+ "35": {
+  "chinese_name": "泥龟",
+  "doc_name": "n01667114"
+ },
+ "36": {
+  "chinese_name": "淡水龟",
+  "doc_name": "n01667778"
+ },
+ "37": {
+  "chinese_name": "箱龟",
+  "doc_name": "n01669191"
+ },
+ "38": {
+  "chinese_name": "带状壁虎",
+  "doc_name": "n01675722"
+ },
+ "39": {
+  "chinese_name": "普通鬣蜥",
+  "doc_name": "n01677366"
+ },
+ "40": {
+  "chinese_name": "美国变色龙",
+  "doc_name": "n01682714"
+ },
+ "41": {
+  "chinese_name": "鞭尾蜥蜴",
+  "doc_name": "n01685808"
+ },
+ "42": {
+  "chinese_name": "飞龙科蜥蜴",
+  "doc_name": "n01687978"
+ },
+ "43": {
+  "chinese_name": "褶边蜥蜴",
+  "doc_name": "n01688243"
+ },
+ "44": {
+  "chinese_name": "鳄鱼蜥蜴",
+  "doc_name": "n01689811"
+ },
+ "45": {
+  "chinese_name": "毒蜥",
+  "doc_name": "n01692333"
+ },
+ "46": {
+  "chinese_name": "绿蜥蜴",
+  "doc_name": "n01693334"
+ },
+ "47": {
+  "chinese_name": "非洲变色龙",
+  "doc_name": "n01694178"
+ },
+ "48": {
+  "chinese_name": "科莫多蜥蜴",
+  "doc_name": "n01695060"
+ },
+ "49": {
+  "chinese_name": "非洲鳄",
+  "doc_name": "n01697457"
+ },
+ "50": {
+  "chinese_name": "美国鳄鱼",
+  "doc_name": "n01698640"
+ },
+ "51": {
+  "chinese_name": "三角龙",
+  "doc_name": "n01704323"
+ },
+ "52": {
+  "chinese_name": "雷蛇",
+  "doc_name": "n01728572"
+ },
+ "53": {
+  "chinese_name": "环蛇",
+  "doc_name": "n01728920"
+ },
+ "54": {
+  "chinese_name": "希腊蛇",
+  "doc_name": "n01729322"
+ },
+ "55": {
+  "chinese_name": "绿蛇",
+  "doc_name": "n01729977"
+ },
+ "56": {
+  "chinese_name": "国王蛇",
+  "doc_name": "n01734418"
+ },
+ "57": {
+  "chinese_name": "袜带蛇",
+  "doc_name": "n01735189"
+ },
+ "58": {
+  "chinese_name": "水蛇",
+  "doc_name": "n01737021"
+ },
+ "59": {
+  "chinese_name": "藤蛇",
+  "doc_name": "n01739381"
+ },
+ "60": {
+  "chinese_name": "夜蛇",
+  "doc_name": "n01740131"
+ },
+ "61": {
+  "chinese_name": "大蟒蛇",
+  "doc_name": "n01742172"
+ },
+ "62": {
+  "chinese_name": "岩石蟒蛇",
+  "doc_name": "n01744401"
+ },
+ "63": {
+  "chinese_name": "印度眼镜蛇",
+  "doc_name": "n01748264"
+ },
+ "64": {
+  "chinese_name": "绿曼巴",
+  "doc_name": "n01749939"
+ },
+ "65": {
+  "chinese_name": "海蛇",
+  "doc_name": "n01751748"
+ },
+ "66": {
+  "chinese_name": "角腹蛇",
+  "doc_name": "n01753488"
+ },
+ "67": {
+  "chinese_name": "菱纹响尾蛇",
+  "doc_name": "n01755581"
+ },
+ "68": {
+  "chinese_name": "角响尾蛇",
+  "doc_name": "n01756291"
+ },
+ "69": {
+  "chinese_name": "三叶虫",
+  "doc_name": "n01768244"
+ },
+ "70": {
+  "chinese_name": "盲蜘蛛",
+  "doc_name": "n01770081"
+ },
+ "71": {
+  "chinese_name": "蝎子",
+  "doc_name": "n01770393"
+ },
+ "72": {
+  "chinese_name": "黑金花园蜘蛛",
+  "doc_name": "n01773157"
+ },
+ "73": {
+  "chinese_name": "谷仓蜘蛛",
+  "doc_name": "n01773549"
+ },
+ "74": {
+  "chinese_name": "花园蜘蛛",
+  "doc_name": "n01773797"
+ },
+ "75": {
+  "chinese_name": "黑寡妇蜘蛛",
+  "doc_name": "n01774384"
+ },
+ "76": {
+  "chinese_name": "狼蛛",
+  "doc_name": "n01774750"
+ },
+ "77": {
+  "chinese_name": "狼蜘蛛",
+  "doc_name": "n01775062"
+ },
+ "78": {
+  "chinese_name": "壁虱",
+  "doc_name": "n01776313"
+ },
+ "79": {
+  "chinese_name": "蜈蚣",
+  "doc_name": "n01784675"
+ },
+ "80": {
+  "chinese_name": "黑松鸡",
+  "doc_name": "n01795545"
+ },
+ "81": {
+  "chinese_name": "松鸡",
+  "doc_name": "n01796340"
+ },
+ "82": {
+  "chinese_name": "披肩鸡",
+  "doc_name": "n01797886"
+ },
+ "83": {
+  "chinese_name": "草原鸡",
+  "doc_name": "n01798484"
+ },
+ "84": {
+  "chinese_name": "孔雀",
+  "doc_name": "n01806143"
+ },
+ "85": {
+  "chinese_name": "鹌鹑",
+  "doc_name": "n01806567"
+ },
+ "86": {
+  "chinese_name": "鹧鸪",
+  "doc_name": "n01807496"
+ },
+ "87": {
+  "chinese_name": "非洲灰鹦鹉",
+  "doc_name": "n01817953"
+ },
+ "88": {
+  "chinese_name": "金刚鹦鹉",
+  "doc_name": "n01818515"
+ },
+ "89": {
+  "chinese_name": "硫冠鹦鹉",
+  "doc_name": "n01819313"
+ },
+ "90": {
+  "chinese_name": "短尾鹦鹉",
+  "doc_name": "n01820546"
+ },
+ "91": {
+  "chinese_name": "褐翅鸦鹃",
+  "doc_name": "n01824575"
+ },
+ "92": {
+  "chinese_name": "蜜蜂",
+  "doc_name": "n01828970"
+ },
+ "93": {
+  "chinese_name": "犀鸟",
+  "doc_name": "n01829413"
+ },
+ "94": {
+  "chinese_name": "蜂鸟",
+  "doc_name": "n01833805"
+ },
+ "95": {
+  "chinese_name": "鹟䴕",
+  "doc_name": "n01843065"
+ },
+ "96": {
+  "chinese_name": "犀鸟",
+  "doc_name": "n01843383"
+ },
+ "97": {
+  "chinese_name": "野鸭",
+  "doc_name": "n01847000"
+ },
+ "98": {
+  "chinese_name": "红胸秋沙鸭",
+  "doc_name": "n01855032"
+ },
+ "99": {
+  "chinese_name": "鹅",
+  "doc_name": "n01855672"
+ },
+ "100": {
+  "chinese_name": "黑天鹅",
+  "doc_name": "n01860187"
+ },
+ "101": {
+  "chinese_name": "大象",
+  "doc_name": "n01871265"
+ },
+ "102": {
+  "chinese_name": "针鼹鼠",
+  "doc_name": "n01872401"
+ },
+ "103": {
+  "chinese_name": "鸭嘴兽",
+  "doc_name": "n01873310"
+ },
+ "104": {
+  "chinese_name": "沙袋鼠",
+  "doc_name": "n01877812"
+ },
+ "105": {
+  "chinese_name": "考拉",
+  "doc_name": "n01882714"
+ },
+ "106": {
+  "chinese_name": "袋熊",
+  "doc_name": "n01883070"
+ },
+ "107": {
+  "chinese_name": "水母",
+  "doc_name": "n01910747"
+ },
+ "108": {
+  "chinese_name": "海葵",
+  "doc_name": "n01914609"
+ },
+ "109": {
+  "chinese_name": "脑珊瑚",
+  "doc_name": "n01917289"
+ },
+ "110": {
+  "chinese_name": "扁形虫扁虫",
+  "doc_name": "n01924916"
+ },
+ "111": {
+  "chinese_name": "线虫",
+  "doc_name": "n01930112"
+ },
+ "112": {
+  "chinese_name": "海螺",
+  "doc_name": "n01943899"
+ },
+ "113": {
+  "chinese_name": "蜗牛",
+  "doc_name": "n01944390"
+ },
+ "114": {
+  "chinese_name": "鼻涕虫",
+  "doc_name": "n01945685"
+ },
+ "115": {
+  "chinese_name": "海参",
+  "doc_name": "n01950731"
+ },
+ "116": {
+  "chinese_name": "石鳖",
+  "doc_name": "n01955084"
+ },
+ "117": {
+  "chinese_name": "鹦鹉螺",
+  "doc_name": "n01968897"
+ },
+ "118": {
+  "chinese_name": "珍宝蟹",
+  "doc_name": "n01978287"
+ },
+ "119": {
+  "chinese_name": "石蟹",
+  "doc_name": "n01978455"
+ },
+ "120": {
+  "chinese_name": "招潮蟹",
+  "doc_name": "n01980166"
+ },
+ "121": {
+  "chinese_name": "帝王蟹",
+  "doc_name": "n01981276"
+ },
+ "122": {
+  "chinese_name": "美国龙虾",
+  "doc_name": "n01983481"
+ },
+ "123": {
+  "chinese_name": "大螯虾",
+  "doc_name": "n01984695"
+ },
+ "124": {
+  "chinese_name": "小龙虾",
+  "doc_name": "n01985128"
+ },
+ "125": {
+  "chinese_name": "寄居蟹",
+  "doc_name": "n01986214"
+ },
+ "126": {
+  "chinese_name": "等足目动物(明虾和螃蟹近亲)",
+  "doc_name": "n01990800"
+ },
+ "127": {
+  "chinese_name": "白鹳",
+  "doc_name": "n02002556"
+ },
+ "128": {
+  "chinese_name": "黑鹳",
+  "doc_name": "n02002724"
+ },
+ "129": {
+  "chinese_name": "鹭",
+  "doc_name": "n02006656"
+ },
+ "130": {
+  "chinese_name": "火烈鸟",
+  "doc_name": "n02007558"
+ },
+ "131": {
+  "chinese_name": "小蓝鹭",
+  "doc_name": "n02009229"
+ },
+ "132": {
+  "chinese_name": "美国鹭",
+  "doc_name": "n02009912"
+ },
+ "133": {
+  "chinese_name": "麻鸦",
+  "doc_name": "n02011460"
+ },
+ "134": {
+  "chinese_name": "鹤",
+  "doc_name": "n02012849"
+ },
+ "135": {
+  "chinese_name": "秧鹤",
+  "doc_name": "n02013706"
+ },
+ "136": {
+  "chinese_name": "欧洲水鸡",
+  "doc_name": "n02017213"
+ },
+ "137": {
+  "chinese_name": "沼泽泥母鸡",
+  "doc_name": "n02018207"
+ },
+ "138": {
+  "chinese_name": "鸨",
+  "doc_name": "n02018795"
+ },
+ "139": {
+  "chinese_name": "红翻石鹬",
+  "doc_name": "n02025239"
+ },
+ "140": {
+  "chinese_name": "红背鹬",
+  "doc_name": "n02027492"
+ },
+ "141": {
+  "chinese_name": "红脚鹬",
+  "doc_name": "n02028035"
+ },
+ "142": {
+  "chinese_name": "半蹼鹬",
+  "doc_name": "n02033041"
+ },
+ "143": {
+  "chinese_name": "蛎鹬",
+  "doc_name": "n02037110"
+ },
+ "144": {
+  "chinese_name": "鹈鹕",
+  "doc_name": "n02051845"
+ },
+ "145": {
+  "chinese_name": "国王企鹅",
+  "doc_name": "n02056570"
+ },
+ "146": {
+  "chinese_name": "信天翁",
+  "doc_name": "n02058221"
+ },
+ "147": {
+  "chinese_name": "灰鲸",
+  "doc_name": "n02066245"
+ },
+ "148": {
+  "chinese_name": "杀人鲸",
+  "doc_name": "n02071294"
+ },
+ "149": {
+  "chinese_name": "海牛",
+  "doc_name": "n02074367"
+ },
+ "150": {
+  "chinese_name": "海狮",
+  "doc_name": "n02077923"
+ },
+ "151": {
+  "chinese_name": "奇瓦瓦",
+  "doc_name": "n02085620"
+ },
+ "152": {
+  "chinese_name": "日本猎犬",
+  "doc_name": "n02085782"
+ },
+ "153": {
+  "chinese_name": "马尔济斯犬",
+  "doc_name": "n02085936"
+ },
+ "154": {
+  "chinese_name": "狮子狗",
+  "doc_name": "n02086079"
+ },
+ "155": {
+  "chinese_name": "西施犬",
+  "doc_name": "n02086240"
+ },
+ "156": {
+  "chinese_name": "布莱尼姆猎犬",
+  "doc_name": "n02086646"
+ },
+ "157": {
+  "chinese_name": "巴比狗",
+  "doc_name": "n02086910"
+ },
+ "158": {
+  "chinese_name": "玩具犬",
+  "doc_name": "n02087046"
+ },
+ "159": {
+  "chinese_name": "罗得西亚长背猎狗",
+  "doc_name": "n02087394"
+ },
+ "160": {
+  "chinese_name": "阿富汗猎犬",
+  "doc_name": "n02088094"
+ },
+ "161": {
+  "chinese_name": "猎犬",
+  "doc_name": "n02088238"
+ },
+ "162": {
+  "chinese_name": "比格犬",
+  "doc_name": "n02088364"
+ },
+ "163": {
+  "chinese_name": "侦探犬",
+  "doc_name": "n02088466"
+ },
+ "164": {
+  "chinese_name": "蓝色快狗",
+  "doc_name": "n02088632"
+ },
+ "165": {
+  "chinese_name": "黑褐猎浣熊犬",
+  "doc_name": "n02089078"
+ },
+ "166": {
+  "chinese_name": "沃克猎犬",
+  "doc_name": "n02089867"
+ },
+ "167": {
+  "chinese_name": "英国猎狐犬",
+  "doc_name": "n02089973"
+ },
+ "168": {
+  "chinese_name": "美洲赤狗",
+  "doc_name": "n02090379"
+ },
+ "169": {
+  "chinese_name": "俄罗斯猎狼犬",
+  "doc_name": "n02090622"
+ },
+ "170": {
+  "chinese_name": "爱尔兰猎狼犬",
+  "doc_name": "n02090721"
+ },
+ "171": {
+  "chinese_name": "意大利灰狗",
+  "doc_name": "n02091032"
+ },
+ "172": {
+  "chinese_name": "惠比特犬",
+  "doc_name": "n02091134"
+ },
+ "173": {
+  "chinese_name": "依比沙猎犬",
+  "doc_name": "n02091244"
+ },
+ "174": {
+  "chinese_name": "挪威猎犬",
+  "doc_name": "n02091467"
+ },
+ "175": {
+  "chinese_name": "奥达猎犬",
+  "doc_name": "n02091635"
+ },
+ "176": {
+  "chinese_name": "沙克犬",
+  "doc_name": "n02091831"
+ },
+ "177": {
+  "chinese_name": "苏格兰猎鹿犬",
+  "doc_name": "n02092002"
+ },
+ "178": {
+  "chinese_name": "威玛猎犬",
+  "doc_name": "n02092339"
+ },
+ "179": {
+  "chinese_name": "斯塔福德郡牛头梗",
+  "doc_name": "n02093256"
+ },
+ "180": {
+  "chinese_name": "美国斯塔福德郡梗",
+  "doc_name": "n02093428"
+ },
+ "181": {
+  "chinese_name": "贝德灵顿梗",
+  "doc_name": "n02093647"
+ },
+ "182": {
+  "chinese_name": "边境梗",
+  "doc_name": "n02093754"
+ },
+ "183": {
+  "chinese_name": "凯丽蓝梗",
+  "doc_name": "n02093859"
+ },
+ "184": {
+  "chinese_name": "爱尔兰梗",
+  "doc_name": "n02093991"
+ },
+ "185": {
+  "chinese_name": "诺福克梗",
+  "doc_name": "n02094114"
+ },
+ "186": {
+  "chinese_name": "诺维奇梗",
+  "doc_name": "n02094258"
+ },
+ "187": {
+  "chinese_name": "约克郡梗",
+  "doc_name": "n02094433"
+ },
+ "188": {
+  "chinese_name": "刚毛猎狐梗",
+  "doc_name": "n02095314"
+ },
+ "189": {
+  "chinese_name": "莱克兰梗",
+  "doc_name": "n02095570"
+ },
+ "190": {
+  "chinese_name": "锡利哈姆梗",
+  "doc_name": "n02095889"
+ },
+ "191": {
+  "chinese_name": "艾尔谷犬",
+  "doc_name": "n02096051"
+ },
+ "192": {
+  "chinese_name": "凯恩梗",
+  "doc_name": "n02096177"
+ },
+ "193": {
+  "chinese_name": "澳大利亚梗",
+  "doc_name": "n02096294"
+ },
+ "194": {
+  "chinese_name": "丹迪丁蒙梗",
+  "doc_name": "n02096437"
+ },
+ "195": {
+  "chinese_name": "波士顿梗",
+  "doc_name": "n02096585"
+ },
+ "196": {
+  "chinese_name": "迷你雪纳瑞犬",
+  "doc_name": "n02097047"
+ },
+ "197": {
+  "chinese_name": "巨型雪纳瑞犬",
+  "doc_name": "n02097130"
+ },
+ "198": {
+  "chinese_name": "标准雪纳瑞犬",
+  "doc_name": "n02097209"
+ },
+ "199": {
+  "chinese_name": "苏格兰梗",
+  "doc_name": "n02097298"
+ },
+ "200": {
+  "chinese_name": "西藏梗",
+  "doc_name": "n02097474"
+ },
+ "201": {
+  "chinese_name": "丝毛梗",
+  "doc_name": "n02097658"
+ },
+ "202": {
+  "chinese_name": "软毛麦色梗",
+  "doc_name": "n02098105"
+ },
+ "203": {
+  "chinese_name": "西高地白梗",
+  "doc_name": "n02098286"
+ },
+ "204": {
+  "chinese_name": "拉萨阿普索犬",
+  "doc_name": "n02098413"
+ },
+ "205": {
+  "chinese_name": "平毛寻回犬",
+  "doc_name": "n02099267"
+ },
+ "206": {
+  "chinese_name": "卷毛寻回犬",
+  "doc_name": "n02099429"
+ },
+ "207": {
+  "chinese_name": "金毛猎犬",
+  "doc_name": "n02099601"
+ },
+ "208": {
+  "chinese_name": "拉布拉多猎犬",
+  "doc_name": "n02099712"
+ },
+ "209": {
+  "chinese_name": "乞沙比克猎犬",
+  "doc_name": "n02099849"
+ },
+ "210": {
+  "chinese_name": "德国短毛猎犬",
+  "doc_name": "n02100236"
+ },
+ "211": {
+  "chinese_name": "维兹拉犬",
+  "doc_name": "n02100583"
+ },
+ "212": {
+  "chinese_name": "英国谍犬",
+  "doc_name": "n02100735"
+ },
+ "213": {
+  "chinese_name": "爱尔兰雪达犬",
+  "doc_name": "n02100877"
+ },
+ "214": {
+  "chinese_name": "戈登雪达犬",
+  "doc_name": "n02101006"
+ },
+ "215": {
+  "chinese_name": "布列塔尼犬猎犬",
+  "doc_name": "n02101388"
+ },
+ "216": {
+  "chinese_name": "黄毛",
+  "doc_name": "n02101556"
+ },
+ "217": {
+  "chinese_name": "英国史宾格犬",
+  "doc_name": "n02102040"
+ },
+ "218": {
+  "chinese_name": "威尔士史宾格犬",
+  "doc_name": "n02102177"
+ },
+ "219": {
+  "chinese_name": "可卡犬",
+  "doc_name": "n02102318"
+ },
+ "220": {
+  "chinese_name": "萨塞克斯猎犬",
+  "doc_name": "n02102480"
+ },
+ "221": {
+  "chinese_name": "爱尔兰水猎犬",
+  "doc_name": "n02102973"
+ },
+ "222": {
+  "chinese_name": "哥威斯犬",
+  "doc_name": "n02104029"
+ },
+ "223": {
+  "chinese_name": "舒柏奇犬",
+  "doc_name": "n02104365"
+ },
+ "224": {
+  "chinese_name": "比利时牧羊犬",
+  "doc_name": "n02105056"
+ },
+ "225": {
+  "chinese_name": "马里努阿犬",
+  "doc_name": "n02105162"
+ },
+ "226": {
+  "chinese_name": "伯瑞犬",
+  "doc_name": "n02105251"
+ },
+ "227": {
+  "chinese_name": "凯尔皮犬",
+  "doc_name": "n02105412"
+ },
+ "228": {
+  "chinese_name": "匈牙利牧羊犬",
+  "doc_name": "n02105505"
+ },
+ "229": {
+  "chinese_name": "老英国牧羊犬",
+  "doc_name": "n02105641"
+ },
+ "230": {
+  "chinese_name": "喜乐蒂牧羊犬",
+  "doc_name": "n02105855"
+ },
+ "231": {
+  "chinese_name": "牧羊犬",
+  "doc_name": "n02106030"
+ },
+ "232": {
+  "chinese_name": "边境牧羊犬",
+  "doc_name": "n02106166"
+ },
+ "233": {
+  "chinese_name": "法兰德斯牧牛狗",
+  "doc_name": "n02106382"
+ },
+ "234": {
+  "chinese_name": "罗特韦尔犬",
+  "doc_name": "n02106550"
+ },
+ "235": {
+  "chinese_name": "德国牧羊犬",
+  "doc_name": "n02106662"
+ },
+ "236": {
+  "chinese_name": "多伯曼犬",
+  "doc_name": "n02107142"
+ },
+ "237": {
+  "chinese_name": "迷你杜宾犬",
+  "doc_name": "n02107312"
+ },
+ "238": {
+  "chinese_name": "大瑞士山地犬",
+  "doc_name": "n02107574"
+ },
+ "239": {
+  "chinese_name": "伯恩山犬",
+  "doc_name": "n02107683"
+ },
+ "240": {
+  "chinese_name": "Appenzeller狗",
+  "doc_name": "n02107908"
+ },
+ "241": {
+  "chinese_name": "EntleBucher狗",
+  "doc_name": "n02108000"
+ },
+ "242": {
+  "chinese_name": "拳师狗",
+  "doc_name": "n02108089"
+ },
+ "243": {
+  "chinese_name": "斗牛獒",
+  "doc_name": "n02108422"
+ },
+ "244": {
+  "chinese_name": "藏獒",
+  "doc_name": "n02108551"
+ },
+ "245": {
+  "chinese_name": "法国斗牛犬",
+  "doc_name": "n02108915"
+ },
+ "246": {
+  "chinese_name": "大丹犬",
+  "doc_name": "n02109047"
+ },
+ "247": {
+  "chinese_name": "圣伯纳德狗",
+  "doc_name": "n02109525"
+ },
+ "248": {
+  "chinese_name": "爱斯基摩犬",
+  "doc_name": "n02109961"
+ },
+ "249": {
+  "chinese_name": "雪橇犬",
+  "doc_name": "n02110063"
+ },
+ "250": {
+  "chinese_name": "哈士奇",
+  "doc_name": "n02110185"
+ },
+ "251": {
+  "chinese_name": "达尔马提亚",
+  "doc_name": "n02110341"
+ },
+ "252": {
+  "chinese_name": "狮毛狗",
+  "doc_name": "n02110627"
+ },
+ "253": {
+  "chinese_name": "巴辛吉狗",
+  "doc_name": "n02110806"
+ },
+ "254": {
+  "chinese_name": "哈巴狗",
+  "doc_name": "n02110958"
+ },
+ "255": {
+  "chinese_name": "莱昂贝格狗",
+  "doc_name": "n02111129"
+ },
+ "256": {
+  "chinese_name": "纽芬兰岛狗",
+  "doc_name": "n02111277"
+ },
+ "257": {
+  "chinese_name": "大白熊犬",
+  "doc_name": "n02111500"
+ },
+ "258": {
+  "chinese_name": "萨摩耶犬",
+  "doc_name": "n02111889"
+ },
+ "259": {
+  "chinese_name": "博美犬",
+  "doc_name": "n02112018"
+ },
+ "260": {
+  "chinese_name": "松狮",
+  "doc_name": "n02112137"
+ },
+ "261": {
+  "chinese_name": "荷兰卷尾狮毛狗",
+  "doc_name": "n02112350"
+ },
+ "262": {
+  "chinese_name": "布鲁塞尔格林芬犬",
+  "doc_name": "n02112706"
+ },
+ "263": {
+  "chinese_name": "彭布洛克威尔士科基犬",
+  "doc_name": "n02113023"
+ },
+ "264": {
+  "chinese_name": "威尔士柯基犬",
+  "doc_name": "n02113186"
+ },
+ "265": {
+  "chinese_name": "玩具贵宾犬",
+  "doc_name": "n02113624"
+ },
+ "266": {
+  "chinese_name": "迷你贵宾犬",
+  "doc_name": "n02113712"
+ },
+ "267": {
+  "chinese_name": "标准贵宾犬",
+  "doc_name": "n02113799"
+ },
+ "268": {
+  "chinese_name": "墨西哥无毛犬",
+  "doc_name": "n02113978"
+ },
+ "269": {
+  "chinese_name": "灰狼",
+  "doc_name": "n02114367"
+ },
+ "270": {
+  "chinese_name": "白狼",
+  "doc_name": "n02114548"
+ },
+ "271": {
+  "chinese_name": "红太狼",
+  "doc_name": "n02114712"
+ },
+ "272": {
+  "chinese_name": "狼",
+  "doc_name": "n02114855"
+ },
+ "273": {
+  "chinese_name": "澳洲野狗",
+  "doc_name": "n02115641"
+ },
+ "274": {
+  "chinese_name": "豺",
+  "doc_name": "n02115913"
+ },
+ "275": {
+  "chinese_name": "非洲猎犬",
+  "doc_name": "n02116738"
+ },
+ "276": {
+  "chinese_name": "鬣狗",
+  "doc_name": "n02117135"
+ },
+ "277": {
+  "chinese_name": "红狐狸",
+  "doc_name": "n02119022"
+ },
+ "278": {
+  "chinese_name": "沙狐",
+  "doc_name": "n02119789"
+ },
+ "279": {
+  "chinese_name": "北极狐狸",
+  "doc_name": "n02120079"
+ },
+ "280": {
+  "chinese_name": "灰狐狸",
+  "doc_name": "n02120505"
+ },
+ "281": {
+  "chinese_name": "虎斑猫",
+  "doc_name": "n02123045"
+ },
+ "282": {
+  "chinese_name": "山猫",
+  "doc_name": "n02123159"
+ },
+ "283": {
+  "chinese_name": "波斯猫",
+  "doc_name": "n02123394"
+ },
+ "284": {
+  "chinese_name": "暹罗暹罗猫",
+  "doc_name": "n02123597"
+ },
+ "285": {
+  "chinese_name": "埃及猫",
+  "doc_name": "n02124075"
+ },
+ "286": {
+  "chinese_name": "美洲狮",
+  "doc_name": "n02125311"
+ },
+ "287": {
+  "chinese_name": "猞猁",
+  "doc_name": "n02127052"
+ },
+ "288": {
+  "chinese_name": "豹子",
+  "doc_name": "n02128385"
+ },
+ "289": {
+  "chinese_name": "雪豹",
+  "doc_name": "n02128757"
+ },
+ "290": {
+  "chinese_name": "美洲虎",
+  "doc_name": "n02128925"
+ },
+ "291": {
+  "chinese_name": "狮子",
+  "doc_name": "n02129165"
+ },
+ "292": {
+  "chinese_name": "老虎",
+  "doc_name": "n02129604"
+ },
+ "293": {
+  "chinese_name": "猎豹",
+  "doc_name": "n02130308"
+ },
+ "294": {
+  "chinese_name": "棕熊",
+  "doc_name": "n02132136"
+ },
+ "295": {
+  "chinese_name": "美洲黑熊",
+  "doc_name": "n02133161"
+ },
+ "296": {
+  "chinese_name": "冰熊",
+  "doc_name": "n02134084"
+ },
+ "297": {
+  "chinese_name": "懒熊",
+  "doc_name": "n02134418"
+ },
+ "298": {
+  "chinese_name": "猫鼬",
+  "doc_name": "n02137549"
+ },
+ "299": {
+  "chinese_name": "猫鼬",
+  "doc_name": "n02138441"
+ },
+ "300": {
+  "chinese_name": "虎甲虫",
+  "doc_name": "n02165105"
+ },
+ "301": {
+  "chinese_name": "瓢虫",
+  "doc_name": "n02165456"
+ },
+ "302": {
+  "chinese_name": "土鳖虫",
+  "doc_name": "n02167151"
+ },
+ "303": {
+  "chinese_name": "天牛",
+  "doc_name": "n02168699"
+ },
+ "304": {
+  "chinese_name": "龟甲虫",
+  "doc_name": "n02169497"
+ },
+ "305": {
+  "chinese_name": "粪甲虫",
+  "doc_name": "n02172182"
+ },
+ "306": {
+  "chinese_name": "犀牛甲虫",
+  "doc_name": "n02174001"
+ },
+ "307": {
+  "chinese_name": "象甲",
+  "doc_name": "n02177972"
+ },
+ "308": {
+  "chinese_name": "苍蝇",
+  "doc_name": "n02190166"
+ },
+ "309": {
+  "chinese_name": "蜜蜂",
+  "doc_name": "n02206856"
+ },
+ "310": {
+  "chinese_name": "蚂蚁",
+  "doc_name": "n02219486"
+ },
+ "311": {
+  "chinese_name": "蚱蜢",
+  "doc_name": "n02226429"
+ },
+ "312": {
+  "chinese_name": "蟋蟀",
+  "doc_name": "n02229544"
+ },
+ "313": {
+  "chinese_name": "竹节虫",
+  "doc_name": "n02231487"
+ },
+ "314": {
+  "chinese_name": "蟑螂",
+  "doc_name": "n02233338"
+ },
+ "315": {
+  "chinese_name": "螳螂",
+  "doc_name": "n02236044"
+ },
+ "316": {
+  "chinese_name": "蝉",
+  "doc_name": "n02256656"
+ },
+ "317": {
+  "chinese_name": "叶蝉",
+  "doc_name": "n02259212"
+ },
+ "318": {
+  "chinese_name": "草蜻蛉",
+  "doc_name": "n02264363"
+ },
+ "319": {
+  "chinese_name": "蜻蜓",
+  "doc_name": "n02268443"
+ },
+ "320": {
+  "chinese_name": "豆娘",
+  "doc_name": "n02268853"
+ },
+ "321": {
+  "chinese_name": "优红蛱蝶",
+  "doc_name": "n02276258"
+ },
+ "322": {
+  "chinese_name": "小环蝴蝶",
+  "doc_name": "n02277742"
+ },
+ "323": {
+  "chinese_name": "君主蝴蝶",
+  "doc_name": "n02279972"
+ },
+ "324": {
+  "chinese_name": "菜粉蝶",
+  "doc_name": "n02280649"
+ },
+ "325": {
+  "chinese_name": "白蝴蝶",
+  "doc_name": "n02281406"
+ },
+ "326": {
+  "chinese_name": "灰蝶",
+  "doc_name": "n02281787"
+ },
+ "327": {
+  "chinese_name": "海星",
+  "doc_name": "n02317335"
+ },
+ "328": {
+  "chinese_name": "海胆",
+  "doc_name": "n02319095"
+ },
+ "329": {
+  "chinese_name": "海参",
+  "doc_name": "n02321529"
+ },
+ "330": {
+  "chinese_name": "野兔",
+  "doc_name": "n02325366"
+ },
+ "331": {
+  "chinese_name": "兔",
+  "doc_name": "n02326432"
+ },
+ "332": {
+  "chinese_name": "安哥拉兔",
+  "doc_name": "n02328150"
+ },
+ "333": {
+  "chinese_name": "仓鼠",
+  "doc_name": "n02342885"
+ },
+ "334": {
+  "chinese_name": "刺猬",
+  "doc_name": "n02346627"
+ },
+ "335": {
+  "chinese_name": "黑松鼠",
+  "doc_name": "n02356798"
+ },
+ "336": {
+  "chinese_name": "土拨鼠",
+  "doc_name": "n02361337"
+ },
+ "337": {
+  "chinese_name": "海狸",
+  "doc_name": "n02363005"
+ },
+ "338": {
+  "chinese_name": "豚鼠",
+  "doc_name": "n02364673"
+ },
+ "339": {
+  "chinese_name": "栗色马",
+  "doc_name": "n02389026"
+ },
+ "340": {
+  "chinese_name": "斑马",
+  "doc_name": "n02391049"
+ },
+ "341": {
+  "chinese_name": "猪",
+  "doc_name": "n02395406"
+ },
+ "342": {
+  "chinese_name": "野猪",
+  "doc_name": "n02396427"
+ },
+ "343": {
+  "chinese_name": "疣猪",
+  "doc_name": "n02397096"
+ },
+ "344": {
+  "chinese_name": "河马",
+  "doc_name": "n02398521"
+ },
+ "345": {
+  "chinese_name": "牛",
+  "doc_name": "n02403003"
+ },
+ "346": {
+  "chinese_name": "水牛",
+  "doc_name": "n02408429"
+ },
+ "347": {
+  "chinese_name": "野牛",
+  "doc_name": "n02410509"
+ },
+ "348": {
+  "chinese_name": "公羊",
+  "doc_name": "n02412080"
+ },
+ "349": {
+  "chinese_name": "大角羊",
+  "doc_name": "n02415577"
+ },
+ "350": {
+  "chinese_name": "山羊",
+  "doc_name": "n02417914"
+ },
+ "351": {
+  "chinese_name": "狷羚",
+  "doc_name": "n02422106"
+ },
+ "352": {
+  "chinese_name": "黑斑羚",
+  "doc_name": "n02422699"
+ },
+ "353": {
+  "chinese_name": "瞪羚",
+  "doc_name": "n02423022"
+ },
+ "354": {
+  "chinese_name": "阿拉伯单峰骆驼",
+  "doc_name": "n02437312"
+ },
+ "355": {
+  "chinese_name": "骆驼",
+  "doc_name": "n02437616"
+ },
+ "356": {
+  "chinese_name": "黄鼠狼",
+  "doc_name": "n02441942"
+ },
+ "357": {
+  "chinese_name": "水貂",
+  "doc_name": "n02442845"
+ },
+ "358": {
+  "chinese_name": "臭猫",
+  "doc_name": "n02443114"
+ },
+ "359": {
+  "chinese_name": "黑足鼬",
+  "doc_name": "n02443484"
+ },
+ "360": {
+  "chinese_name": "水獭",
+  "doc_name": "n02444819"
+ },
+ "361": {
+  "chinese_name": "臭鼬",
+  "doc_name": "n02445715"
+ },
+ "362": {
+  "chinese_name": "獾",
+  "doc_name": "n02447366"
+ },
+ "363": {
+  "chinese_name": "犰狳",
+  "doc_name": "n02454379"
+ },
+ "364": {
+  "chinese_name": "树懒",
+  "doc_name": "n02457408"
+ },
+ "365": {
+  "chinese_name": "猩猩",
+  "doc_name": "n02480495"
+ },
+ "366": {
+  "chinese_name": "大猩猩",
+  "doc_name": "n02480855"
+ },
+ "367": {
+  "chinese_name": "黑猩猩",
+  "doc_name": "n02481823"
+ },
+ "368": {
+  "chinese_name": "长臂猿",
+  "doc_name": "n02483362"
+ },
+ "369": {
+  "chinese_name": "合趾猿长臂猿",
+  "doc_name": "n02483708"
+ },
+ "370": {
+  "chinese_name": "长尾猴",
+  "doc_name": "n02484975"
+ },
+ "371": {
+  "chinese_name": "赤猴",
+  "doc_name": "n02486261"
+ },
+ "372": {
+  "chinese_name": "狒狒",
+  "doc_name": "n02486410"
+ },
+ "373": {
+  "chinese_name": "恒河猴",
+  "doc_name": "n02487347"
+ },
+ "374": {
+  "chinese_name": "白头叶猴",
+  "doc_name": "n02488291"
+ },
+ "375": {
+  "chinese_name": "疣猴",
+  "doc_name": "n02488702"
+ },
+ "376": {
+  "chinese_name": "长鼻猴",
+  "doc_name": "n02489166"
+ },
+ "377": {
+  "chinese_name": "狨（美洲产小型长尾猴）",
+  "doc_name": "n02490219"
+ },
+ "378": {
+  "chinese_name": "卷尾猴",
+  "doc_name": "n02492035"
+ },
+ "379": {
+  "chinese_name": "吼猴",
+  "doc_name": "n02492660"
+ },
+ "380": {
+  "chinese_name": "伶猴",
+  "doc_name": "n02493509"
+ },
+ "381": {
+  "chinese_name": "蜘蛛猴",
+  "doc_name": "n02493793"
+ },
+ "382": {
+  "chinese_name": "松鼠猴",
+  "doc_name": "n02494079"
+ },
+ "383": {
+  "chinese_name": "马达加斯加环尾狐猴",
+  "doc_name": "n02497673"
+ },
+ "384": {
+  "chinese_name": "大狐猴",
+  "doc_name": "n02500267"
+ },
+ "385": {
+  "chinese_name": "印度大象",
+  "doc_name": "n02504013"
+ },
+ "386": {
+  "chinese_name": "非洲象",
+  "doc_name": "n02504458"
+ },
+ "387": {
+  "chinese_name": "小熊猫",
+  "doc_name": "n02509815"
+ },
+ "388": {
+  "chinese_name": "大熊猫",
+  "doc_name": "n02510455"
+ },
+ "389": {
+  "chinese_name": "杖鱼",
+  "doc_name": "n02514041"
+ },
+ "390": {
+  "chinese_name": "鳗鱼",
+  "doc_name": "n02526121"
+ },
+ "391": {
+  "chinese_name": "银鲑",
+  "doc_name": "n02536864"
+ },
+ "392": {
+  "chinese_name": "三色刺蝶鱼",
+  "doc_name": "n02606052"
+ },
+ "393": {
+  "chinese_name": "海葵鱼",
+  "doc_name": "n02607072"
+ },
+ "394": {
+  "chinese_name": "鲟鱼",
+  "doc_name": "n02640242"
+ },
+ "395": {
+  "chinese_name": "雀鳝",
+  "doc_name": "n02641379"
+ },
+ "396": {
+  "chinese_name": "狮子鱼",
+  "doc_name": "n02643566"
+ },
+ "397": {
+  "chinese_name": "河豚",
+  "doc_name": "n02655020"
+ },
+ "398": {
+  "chinese_name": "算盘",
+  "doc_name": "n02666196"
+ },
+ "399": {
+  "chinese_name": "长袍",
+  "doc_name": "n02667093"
+ },
+ "400": {
+  "chinese_name": "学位袍",
+  "doc_name": "n02669723"
+ },
+ "401": {
+  "chinese_name": "手风琴",
+  "doc_name": "n02672831"
+ },
+ "402": {
+  "chinese_name": "原声吉他",
+  "doc_name": "n02676566"
+ },
+ "403": {
+  "chinese_name": "航空母舰",
+  "doc_name": "n02687172"
+ },
+ "404": {
+  "chinese_name": "客机",
+  "doc_name": "n02690373"
+ },
+ "405": {
+  "chinese_name": "飞艇",
+  "doc_name": "n02692877"
+ },
+ "406": {
+  "chinese_name": "祭坛",
+  "doc_name": "n02699494"
+ },
+ "407": {
+  "chinese_name": "救护车",
+  "doc_name": "n02701002"
+ },
+ "408": {
+  "chinese_name": "水陆两用车",
+  "doc_name": "n02704792"
+ },
+ "409": {
+  "chinese_name": "模拟时钟",
+  "doc_name": "n02708093"
+ },
+ "410": {
+  "chinese_name": "蜂房",
+  "doc_name": "n02727426"
+ },
+ "411": {
+  "chinese_name": "围裙",
+  "doc_name": "n02730930"
+ },
+ "412": {
+  "chinese_name": "垃圾桶",
+  "doc_name": "n02747177"
+ },
+ "413": {
+  "chinese_name": "攻击步枪",
+  "doc_name": "n02749479"
+ },
+ "414": {
+  "chinese_name": "背包",
+  "doc_name": "n02769748"
+ },
+ "415": {
+  "chinese_name": "面包店",
+  "doc_name": "n02776631"
+ },
+ "416": {
+  "chinese_name": "平衡木",
+  "doc_name": "n02777292"
+ },
+ "417": {
+  "chinese_name": "热气球",
+  "doc_name": "n02782093"
+ },
+ "418": {
+  "chinese_name": "圆珠笔",
+  "doc_name": "n02783161"
+ },
+ "419": {
+  "chinese_name": "创可贴",
+  "doc_name": "n02786058"
+ },
+ "420": {
+  "chinese_name": "班卓琴",
+  "doc_name": "n02787622"
+ },
+ "421": {
+  "chinese_name": "栏杆",
+  "doc_name": "n02788148"
+ },
+ "422": {
+  "chinese_name": "杠铃",
+  "doc_name": "n02790996"
+ },
+ "423": {
+  "chinese_name": "理发师的椅子",
+  "doc_name": "n02791124"
+ },
+ "424": {
+  "chinese_name": "理发店",
+  "doc_name": "n02791270"
+ },
+ "425": {
+  "chinese_name": "牲口棚",
+  "doc_name": "n02793495"
+ },
+ "426": {
+  "chinese_name": "晴雨表",
+  "doc_name": "n02794156"
+ },
+ "427": {
+  "chinese_name": "圆筒",
+  "doc_name": "n02795169"
+ },
+ "428": {
+  "chinese_name": "园地小车",
+  "doc_name": "n02797295"
+ },
+ "429": {
+  "chinese_name": "棒球",
+  "doc_name": "n02799071"
+ },
+ "430": {
+  "chinese_name": "篮球",
+  "doc_name": "n02802426"
+ },
+ "431": {
+  "chinese_name": "婴儿床",
+  "doc_name": "n02804414"
+ },
+ "432": {
+  "chinese_name": "巴松管",
+  "doc_name": "n02804610"
+ },
+ "433": {
+  "chinese_name": "游泳帽",
+  "doc_name": "n02807133"
+ },
+ "434": {
+  "chinese_name": "沐浴毛巾",
+  "doc_name": "n02808304"
+ },
+ "435": {
+  "chinese_name": "浴缸",
+  "doc_name": "n02808440"
+ },
+ "436": {
+  "chinese_name": "沙滩车",
+  "doc_name": "n02814533"
+ },
+ "437": {
+  "chinese_name": "灯塔",
+  "doc_name": "n02814860"
+ },
+ "438": {
+  "chinese_name": "高脚杯",
+  "doc_name": "n02815834"
+ },
+ "439": {
+  "chinese_name": "熊皮高帽",
+  "doc_name": "n02817516"
+ },
+ "440": {
+  "chinese_name": "啤酒瓶",
+  "doc_name": "n02823428"
+ },
+ "441": {
+  "chinese_name": "啤酒杯",
+  "doc_name": "n02823750"
+ },
+ "442": {
+  "chinese_name": "钟塔",
+  "doc_name": "n02825657"
+ },
+ "443": {
+  "chinese_name": "（小儿用的）围嘴",
+  "doc_name": "n02834397"
+ },
+ "444": {
+  "chinese_name": "串联自行车",
+  "doc_name": "n02835271"
+ },
+ "445": {
+  "chinese_name": "比基尼",
+  "doc_name": "n02837789"
+ },
+ "446": {
+  "chinese_name": "装订册",
+  "doc_name": "n02840245"
+ },
+ "447": {
+  "chinese_name": "双筒望远镜",
+  "doc_name": "n02841315"
+ },
+ "448": {
+  "chinese_name": "鸟舍",
+  "doc_name": "n02843684"
+ },
+ "449": {
+  "chinese_name": "船库",
+  "doc_name": "n02859443"
+ },
+ "450": {
+  "chinese_name": "雪橇",
+  "doc_name": "n02860847"
+ },
+ "451": {
+  "chinese_name": "饰扣式领带",
+  "doc_name": "n02865351"
+ },
+ "452": {
+  "chinese_name": "阔边女帽",
+  "doc_name": "n02869837"
+ },
+ "453": {
+  "chinese_name": "书橱",
+  "doc_name": "n02870880"
+ },
+ "454": {
+  "chinese_name": "书店",
+  "doc_name": "n02871525"
+ },
+ "455": {
+  "chinese_name": "瓶盖",
+  "doc_name": "n02877765"
+ },
+ "456": {
+  "chinese_name": "弓箭",
+  "doc_name": "n02879718"
+ },
+ "457": {
+  "chinese_name": "蝴蝶结领结",
+  "doc_name": "n02883205"
+ },
+ "458": {
+  "chinese_name": "铜制牌位",
+  "doc_name": "n02892201"
+ },
+ "459": {
+  "chinese_name": "奶罩",
+  "doc_name": "n02892767"
+ },
+ "460": {
+  "chinese_name": "防波堤",
+  "doc_name": "n02894605"
+ },
+ "461": {
+  "chinese_name": "铠甲",
+  "doc_name": "n02895154"
+ },
+ "462": {
+  "chinese_name": "扫帚",
+  "doc_name": "n02906734"
+ },
+ "463": {
+  "chinese_name": "桶",
+  "doc_name": "n02909870"
+ },
+ "464": {
+  "chinese_name": "扣环",
+  "doc_name": "n02910353"
+ },
+ "465": {
+  "chinese_name": "防弹背心",
+  "doc_name": "n02916936"
+ },
+ "466": {
+  "chinese_name": "动车",
+  "doc_name": "n02917067"
+ },
+ "467": {
+  "chinese_name": "肉铺",
+  "doc_name": "n02927161"
+ },
+ "468": {
+  "chinese_name": "出租车",
+  "doc_name": "n02930766"
+ },
+ "469": {
+  "chinese_name": "大锅",
+  "doc_name": "n02939185"
+ },
+ "470": {
+  "chinese_name": "蜡烛",
+  "doc_name": "n02948072"
+ },
+ "471": {
+  "chinese_name": "大炮",
+  "doc_name": "n02950826"
+ },
+ "472": {
+  "chinese_name": "独木舟",
+  "doc_name": "n02951358"
+ },
+ "473": {
+  "chinese_name": "开瓶器",
+  "doc_name": "n02951585"
+ },
+ "474": {
+  "chinese_name": "开衫",
+  "doc_name": "n02963159"
+ },
+ "475": {
+  "chinese_name": "车镜",
+  "doc_name": "n02965783"
+ },
+ "476": {
+  "chinese_name": "旋转木马",
+  "doc_name": "n02966193"
+ },
+ "477": {
+  "chinese_name": "木匠的工具包",
+  "doc_name": "n02966687"
+ },
+ "478": {
+  "chinese_name": "纸箱",
+  "doc_name": "n02971356"
+ },
+ "479": {
+  "chinese_name": "车轮",
+  "doc_name": "n02974003"
+ },
+ "480": {
+  "chinese_name": "取款机",
+  "doc_name": "n02977058"
+ },
+ "481": {
+  "chinese_name": "盒式录音带",
+  "doc_name": "n02978881"
+ },
+ "482": {
+  "chinese_name": "卡带播放器",
+  "doc_name": "n02979186"
+ },
+ "483": {
+  "chinese_name": "城堡",
+  "doc_name": "n02980441"
+ },
+ "484": {
+  "chinese_name": "双体船",
+  "doc_name": "n02981792"
+ },
+ "485": {
+  "chinese_name": "CD播放器",
+  "doc_name": "n02988304"
+ },
+ "486": {
+  "chinese_name": "大提琴",
+  "doc_name": "n02992211"
+ },
+ "487": {
+  "chinese_name": "移动电话",
+  "doc_name": "n02992529"
+ },
+ "488": {
+  "chinese_name": "铁链",
+  "doc_name": "n02999410"
+ },
+ "489": {
+  "chinese_name": "围栏",
+  "doc_name": "n03000134"
+ },
+ "490": {
+  "chinese_name": "链甲",
+  "doc_name": "n03000247"
+ },
+ "491": {
+  "chinese_name": "电锯",
+  "doc_name": "n03000684"
+ },
+ "492": {
+  "chinese_name": "箱子",
+  "doc_name": "n03014705"
+ },
+ "493": {
+  "chinese_name": "衣柜",
+  "doc_name": "n03016953"
+ },
+ "494": {
+  "chinese_name": "编钟",
+  "doc_name": "n03017168"
+ },
+ "495": {
+  "chinese_name": "中国橱柜",
+  "doc_name": "n03018349"
+ },
+ "496": {
+  "chinese_name": "圣诞袜",
+  "doc_name": "n03026506"
+ },
+ "497": {
+  "chinese_name": "教堂",
+  "doc_name": "n03028079"
+ },
+ "498": {
+  "chinese_name": "电影院",
+  "doc_name": "n03032252"
+ },
+ "499": {
+  "chinese_name": "切肉刀",
+  "doc_name": "n03041632"
+ },
+ "500": {
+  "chinese_name": "悬崖屋",
+  "doc_name": "n03042490"
+ },
+ "501": {
+  "chinese_name": "斗篷",
+  "doc_name": "n03045698"
+ },
+ "502": {
+  "chinese_name": "木屐",
+  "doc_name": "n03047690"
+ },
+ "503": {
+  "chinese_name": "鸡尾酒调酒器",
+  "doc_name": "n03062245"
+ },
+ "504": {
+  "chinese_name": "咖啡杯",
+  "doc_name": "n03063599"
+ },
+ "505": {
+  "chinese_name": "咖啡壶",
+  "doc_name": "n03063689"
+ },
+ "506": {
+  "chinese_name": "螺旋结构（楼梯）",
+  "doc_name": "n03065424"
+ },
+ "507": {
+  "chinese_name": "组合锁",
+  "doc_name": "n03075370"
+ },
+ "508": {
+  "chinese_name": "电脑键盘",
+  "doc_name": "n03085013"
+ },
+ "509": {
+  "chinese_name": "糖果",
+  "doc_name": "n03089624"
+ },
+ "510": {
+  "chinese_name": "集装箱船",
+  "doc_name": "n03095699"
+ },
+ "511": {
+  "chinese_name": "敞篷车",
+  "doc_name": "n03100240"
+ },
+ "512": {
+  "chinese_name": "开瓶器",
+  "doc_name": "n03109150"
+ },
+ "513": {
+  "chinese_name": "短号",
+  "doc_name": "n03110669"
+ },
+ "514": {
+  "chinese_name": "牛仔靴",
+  "doc_name": "n03124043"
+ },
+ "515": {
+  "chinese_name": "牛仔帽",
+  "doc_name": "n03124170"
+ },
+ "516": {
+  "chinese_name": "摇篮",
+  "doc_name": "n03125729"
+ },
+ "517": {
+  "chinese_name": "起重机",
+  "doc_name": "n03126707"
+ },
+ "518": {
+  "chinese_name": "头盔",
+  "doc_name": "n03127747"
+ },
+ "519": {
+  "chinese_name": "板条箱",
+  "doc_name": "n03127925"
+ },
+ "520": {
+  "chinese_name": "小儿床",
+  "doc_name": "n03131574"
+ },
+ "521": {
+  "chinese_name": "砂锅",
+  "doc_name": "n03133878"
+ },
+ "522": {
+  "chinese_name": "槌球",
+  "doc_name": "n03134739"
+ },
+ "523": {
+  "chinese_name": "拐杖",
+  "doc_name": "n03141823"
+ },
+ "524": {
+  "chinese_name": "胸甲",
+  "doc_name": "n03146219"
+ },
+ "525": {
+  "chinese_name": "大坝",
+  "doc_name": "n03160309"
+ },
+ "526": {
+  "chinese_name": "书桌",
+  "doc_name": "n03179701"
+ },
+ "527": {
+  "chinese_name": "台式电脑",
+  "doc_name": "n03180011"
+ },
+ "528": {
+  "chinese_name": "有线电话",
+  "doc_name": "n03187595"
+ },
+ "529": {
+  "chinese_name": "尿布湿",
+  "doc_name": "n03188531"
+ },
+ "530": {
+  "chinese_name": "数字时钟",
+  "doc_name": "n03196217"
+ },
+ "531": {
+  "chinese_name": "数字手表",
+  "doc_name": "n03197337"
+ },
+ "532": {
+  "chinese_name": "餐桌板",
+  "doc_name": "n03201208"
+ },
+ "533": {
+  "chinese_name": "抹布",
+  "doc_name": "n03207743"
+ },
+ "534": {
+  "chinese_name": "洗碗机",
+  "doc_name": "n03207941"
+ },
+ "535": {
+  "chinese_name": "盘式制动器",
+  "doc_name": "n03208938"
+ },
+ "536": {
+  "chinese_name": "码头",
+  "doc_name": "n03216828"
+ },
+ "537": {
+  "chinese_name": "狗拉雪橇",
+  "doc_name": "n03218198"
+ },
+ "538": {
+  "chinese_name": "圆顶",
+  "doc_name": "n03220513"
+ },
+ "539": {
+  "chinese_name": "门垫",
+  "doc_name": "n03223299"
+ },
+ "540": {
+  "chinese_name": "钻井平台",
+  "doc_name": "n03240683"
+ },
+ "541": {
+  "chinese_name": "鼓",
+  "doc_name": "n03249569"
+ },
+ "542": {
+  "chinese_name": "鼓槌",
+  "doc_name": "n03250847"
+ },
+ "543": {
+  "chinese_name": "哑铃",
+  "doc_name": "n03255030"
+ },
+ "544": {
+  "chinese_name": "荷兰烤箱",
+  "doc_name": "n03259280"
+ },
+ "545": {
+  "chinese_name": "电风扇",
+  "doc_name": "n03271574"
+ },
+ "546": {
+  "chinese_name": "电吉他",
+  "doc_name": "n03272010"
+ },
+ "547": {
+  "chinese_name": "电力机车",
+  "doc_name": "n03272562"
+ },
+ "548": {
+  "chinese_name": "电视",
+  "doc_name": "n03290653"
+ },
+ "549": {
+  "chinese_name": "信封",
+  "doc_name": "n03291819"
+ },
+ "550": {
+  "chinese_name": "浓缩咖啡机",
+  "doc_name": "n03297495"
+ },
+ "551": {
+  "chinese_name": "扑面粉",
+  "doc_name": "n03314780"
+ },
+ "552": {
+  "chinese_name": "女用长围巾",
+  "doc_name": "n03325584"
+ },
+ "553": {
+  "chinese_name": "文件",
+  "doc_name": "n03337140"
+ },
+ "554": {
+  "chinese_name": "消防船",
+  "doc_name": "n03344393"
+ },
+ "555": {
+  "chinese_name": "消防车",
+  "doc_name": "n03345487"
+ },
+ "556": {
+  "chinese_name": "火炉栏",
+  "doc_name": "n03347037"
+ },
+ "557": {
+  "chinese_name": "旗杆",
+  "doc_name": "n03355925"
+ },
+ "558": {
+  "chinese_name": "长笛",
+  "doc_name": "n03372029"
+ },
+ "559": {
+  "chinese_name": "折叠椅",
+  "doc_name": "n03376595"
+ },
+ "560": {
+  "chinese_name": "橄榄球头盔",
+  "doc_name": "n03379051"
+ },
+ "561": {
+  "chinese_name": "叉车",
+  "doc_name": "n03384352"
+ },
+ "562": {
+  "chinese_name": "喷泉",
+  "doc_name": "n03388043"
+ },
+ "563": {
+  "chinese_name": "钢笔",
+  "doc_name": "n03388183"
+ },
+ "564": {
+  "chinese_name": "有四根帷柱的床",
+  "doc_name": "n03388549"
+ },
+ "565": {
+  "chinese_name": "运货车厢",
+  "doc_name": "n03393912"
+ },
+ "566": {
+  "chinese_name": "圆号",
+  "doc_name": "n03394916"
+ },
+ "567": {
+  "chinese_name": "煎锅",
+  "doc_name": "n03400231"
+ },
+ "568": {
+  "chinese_name": "裘皮大衣",
+  "doc_name": "n03404251"
+ },
+ "569": {
+  "chinese_name": "垃圾车",
+  "doc_name": "n03417042"
+ },
+ "570": {
+  "chinese_name": "防毒面具",
+  "doc_name": "n03424325"
+ },
+ "571": {
+  "chinese_name": "汽油泵",
+  "doc_name": "n03425413"
+ },
+ "572": {
+  "chinese_name": "高脚杯",
+  "doc_name": "n03443371"
+ },
+ "573": {
+  "chinese_name": "卡丁车",
+  "doc_name": "n03444034"
+ },
+ "574": {
+  "chinese_name": "高尔夫球",
+  "doc_name": "n03445777"
+ },
+ "575": {
+  "chinese_name": "高尔夫球车",
+  "doc_name": "n03445924"
+ },
+ "576": {
+  "chinese_name": "狭长小船",
+  "doc_name": "n03447447"
+ },
+ "577": {
+  "chinese_name": "锣",
+  "doc_name": "n03447721"
+ },
+ "578": {
+  "chinese_name": "礼服",
+  "doc_name": "n03450230"
+ },
+ "579": {
+  "chinese_name": "钢琴",
+  "doc_name": "n03452741"
+ },
+ "580": {
+  "chinese_name": "温室",
+  "doc_name": "n03457902"
+ },
+ "581": {
+  "chinese_name": "散热器格栅",
+  "doc_name": "n03459775"
+ },
+ "582": {
+  "chinese_name": "杂货店",
+  "doc_name": "n03461385"
+ },
+ "583": {
+  "chinese_name": "断头台",
+  "doc_name": "n03467068"
+ },
+ "584": {
+  "chinese_name": "小发夹",
+  "doc_name": "n03476684"
+ },
+ "585": {
+  "chinese_name": "头发喷雾",
+  "doc_name": "n03476991"
+ },
+ "586": {
+  "chinese_name": "半履带装甲车",
+  "doc_name": "n03478589"
+ },
+ "587": {
+  "chinese_name": "锤子",
+  "doc_name": "n03481172"
+ },
+ "588": {
+  "chinese_name": "大篮子",
+  "doc_name": "n03482405"
+ },
+ "589": {
+  "chinese_name": "手摇鼓风机",
+  "doc_name": "n03483316"
+ },
+ "590": {
+  "chinese_name": "手提电脑",
+  "doc_name": "n03485407"
+ },
+ "591": {
+  "chinese_name": "手帕",
+  "doc_name": "n03485794"
+ },
+ "592": {
+  "chinese_name": "硬盘",
+  "doc_name": "n03492542"
+ },
+ "593": {
+  "chinese_name": "口琴",
+  "doc_name": "n03494278"
+ },
+ "594": {
+  "chinese_name": "竖琴",
+  "doc_name": "n03495258"
+ },
+ "595": {
+  "chinese_name": "收割机",
+  "doc_name": "n03496892"
+ },
+ "596": {
+  "chinese_name": "斧头",
+  "doc_name": "n03498962"
+ },
+ "597": {
+  "chinese_name": "手枪皮套",
+  "doc_name": "n03527444"
+ },
+ "598": {
+  "chinese_name": "家庭影院",
+  "doc_name": "n03529860"
+ },
+ "599": {
+  "chinese_name": "蜂窝",
+  "doc_name": "n03530642"
+ },
+ "600": {
+  "chinese_name": "钩爪",
+  "doc_name": "n03532672"
+ },
+ "601": {
+  "chinese_name": "衬裙",
+  "doc_name": "n03534580"
+ },
+ "602": {
+  "chinese_name": "单杠",
+  "doc_name": "n03535780"
+ },
+ "603": {
+  "chinese_name": "马车",
+  "doc_name": "n03538406"
+ },
+ "604": {
+  "chinese_name": "沙漏",
+  "doc_name": "n03544143"
+ },
+ "605": {
+  "chinese_name": "iPod",
+  "doc_name": "n03584254"
+ },
+ "606": {
+  "chinese_name": "熨斗",
+  "doc_name": "n03584829"
+ },
+ "607": {
+  "chinese_name": "南瓜灯笼",
+  "doc_name": "n03590841"
+ },
+ "608": {
+  "chinese_name": "牛仔裤",
+  "doc_name": "n03594734"
+ },
+ "609": {
+  "chinese_name": "吉普车",
+  "doc_name": "n03594945"
+ },
+ "610": {
+  "chinese_name": "运动衫",
+  "doc_name": "n03595614"
+ },
+ "611": {
+  "chinese_name": "拼图",
+  "doc_name": "n03598930"
+ },
+ "612": {
+  "chinese_name": "人力车",
+  "doc_name": "n03599486"
+ },
+ "613": {
+  "chinese_name": "操纵杆",
+  "doc_name": "n03602883"
+ },
+ "614": {
+  "chinese_name": "和服",
+  "doc_name": "n03617480"
+ },
+ "615": {
+  "chinese_name": "护膝",
+  "doc_name": "n03623198"
+ },
+ "616": {
+  "chinese_name": "蝴蝶结",
+  "doc_name": "n03627232"
+ },
+ "617": {
+  "chinese_name": "大褂",
+  "doc_name": "n03630383"
+ },
+ "618": {
+  "chinese_name": "长柄勺",
+  "doc_name": "n03633091"
+ },
+ "619": {
+  "chinese_name": "灯罩",
+  "doc_name": "n03637318"
+ },
+ "620": {
+  "chinese_name": "笔记本电脑",
+  "doc_name": "n03642806"
+ },
+ "621": {
+  "chinese_name": "割草机",
+  "doc_name": "n03649909"
+ },
+ "622": {
+  "chinese_name": "镜头盖",
+  "doc_name": "n03657121"
+ },
+ "623": {
+  "chinese_name": "开信刀",
+  "doc_name": "n03658185"
+ },
+ "624": {
+  "chinese_name": "图书馆",
+  "doc_name": "n03661043"
+ },
+ "625": {
+  "chinese_name": "救生艇",
+  "doc_name": "n03662601"
+ },
+ "626": {
+  "chinese_name": "点火器",
+  "doc_name": "n03666591"
+ },
+ "627": {
+  "chinese_name": "豪华轿车",
+  "doc_name": "n03670208"
+ },
+ "628": {
+  "chinese_name": "远洋班轮",
+  "doc_name": "n03673027"
+ },
+ "629": {
+  "chinese_name": "唇膏",
+  "doc_name": "n03676483"
+ },
+ "630": {
+  "chinese_name": "平底便鞋",
+  "doc_name": "n03680355"
+ },
+ "631": {
+  "chinese_name": "洗剂",
+  "doc_name": "n03690938"
+ },
+ "632": {
+  "chinese_name": "扬声器",
+  "doc_name": "n03691459"
+ },
+ "633": {
+  "chinese_name": "放大镜",
+  "doc_name": "n03692522"
+ },
+ "634": {
+  "chinese_name": "锯木厂",
+  "doc_name": "n03697007"
+ },
+ "635": {
+  "chinese_name": "磁罗盘",
+  "doc_name": "n03706229"
+ },
+ "636": {
+  "chinese_name": "邮袋",
+  "doc_name": "n03709823"
+ },
+ "637": {
+  "chinese_name": "信箱",
+  "doc_name": "n03710193"
+ },
+ "638": {
+  "chinese_name": "女游泳衣",
+  "doc_name": "n03710637"
+ },
+ "639": {
+  "chinese_name": "有肩带浴衣",
+  "doc_name": "n03710721"
+ },
+ "640": {
+  "chinese_name": "窨井盖",
+  "doc_name": "n03717622"
+ },
+ "641": {
+  "chinese_name": "沙球（一种打击乐器）",
+  "doc_name": "n03720891"
+ },
+ "642": {
+  "chinese_name": "马林巴木琴",
+  "doc_name": "n03721384"
+ },
+ "643": {
+  "chinese_name": "面膜",
+  "doc_name": "n03724870"
+ },
+ "644": {
+  "chinese_name": "火柴",
+  "doc_name": "n03729826"
+ },
+ "645": {
+  "chinese_name": "花柱",
+  "doc_name": "n03733131"
+ },
+ "646": {
+  "chinese_name": "迷宫",
+  "doc_name": "n03733281"
+ },
+ "647": {
+  "chinese_name": "量杯",
+  "doc_name": "n03733805"
+ },
+ "648": {
+  "chinese_name": "药箱",
+  "doc_name": "n03742115"
+ },
+ "649": {
+  "chinese_name": "巨石",
+  "doc_name": "n03743016"
+ },
+ "650": {
+  "chinese_name": "麦克风",
+  "doc_name": "n03759954"
+ },
+ "651": {
+  "chinese_name": "微波炉",
+  "doc_name": "n03761084"
+ },
+ "652": {
+  "chinese_name": "军装",
+  "doc_name": "n03763968"
+ },
+ "653": {
+  "chinese_name": "奶桶",
+  "doc_name": "n03764736"
+ },
+ "654": {
+  "chinese_name": "迷你巴士",
+  "doc_name": "n03769881"
+ },
+ "655": {
+  "chinese_name": "迷你裙",
+  "doc_name": "n03770439"
+ },
+ "656": {
+  "chinese_name": "面包车",
+  "doc_name": "n03770679"
+ },
+ "657": {
+  "chinese_name": "导弹",
+  "doc_name": "n03773504"
+ },
+ "658": {
+  "chinese_name": "连指手套",
+  "doc_name": "n03775071"
+ },
+ "659": {
+  "chinese_name": "搅拌钵",
+  "doc_name": "n03775546"
+ },
+ "660": {
+  "chinese_name": "活动房屋（由汽车拖拉的）",
+  "doc_name": "n03776460"
+ },
+ "661": {
+  "chinese_name": "T型发动机小汽车",
+  "doc_name": "n03777568"
+ },
+ "662": {
+  "chinese_name": "调制解调器",
+  "doc_name": "n03777754"
+ },
+ "663": {
+  "chinese_name": "修道院",
+  "doc_name": "n03781244"
+ },
+ "664": {
+  "chinese_name": "显示器",
+  "doc_name": "n03782006"
+ },
+ "665": {
+  "chinese_name": "电瓶车",
+  "doc_name": "n03785016"
+ },
+ "666": {
+  "chinese_name": "砂浆",
+  "doc_name": "n03786901"
+ },
+ "667": {
+  "chinese_name": "学士",
+  "doc_name": "n03787032"
+ },
+ "668": {
+  "chinese_name": "清真寺",
+  "doc_name": "n03788195"
+ },
+ "669": {
+  "chinese_name": "蚊帐",
+  "doc_name": "n03788365"
+ },
+ "670": {
+  "chinese_name": "摩托车",
+  "doc_name": "n03791053"
+ },
+ "671": {
+  "chinese_name": "山地自行车",
+  "doc_name": "n03792782"
+ },
+ "672": {
+  "chinese_name": "登山帐",
+  "doc_name": "n03792972"
+ },
+ "673": {
+  "chinese_name": "鼠标",
+  "doc_name": "n03793489"
+ },
+ "674": {
+  "chinese_name": "捕鼠器",
+  "doc_name": "n03794056"
+ },
+ "675": {
+  "chinese_name": "搬家车",
+  "doc_name": "n03796401"
+ },
+ "676": {
+  "chinese_name": "口套",
+  "doc_name": "n03803284"
+ },
+ "677": {
+  "chinese_name": "钉子",
+  "doc_name": "n03804744"
+ },
+ "678": {
+  "chinese_name": "颈托",
+  "doc_name": "n03814639"
+ },
+ "679": {
+  "chinese_name": "项链",
+  "doc_name": "n03814906"
+ },
+ "680": {
+  "chinese_name": "乳头（瓶）",
+  "doc_name": "n03825788"
+ },
+ "681": {
+  "chinese_name": "笔记本",
+  "doc_name": "n03832673"
+ },
+ "682": {
+  "chinese_name": "方尖碑",
+  "doc_name": "n03837869"
+ },
+ "683": {
+  "chinese_name": "双簧管",
+  "doc_name": "n03838899"
+ },
+ "684": {
+  "chinese_name": "陶笛",
+  "doc_name": "n03840681"
+ },
+ "685": {
+  "chinese_name": "里程表",
+  "doc_name": "n03841143"
+ },
+ "686": {
+  "chinese_name": "滤油器",
+  "doc_name": "n03843555"
+ },
+ "687": {
+  "chinese_name": "风琴",
+  "doc_name": "n03854065"
+ },
+ "688": {
+  "chinese_name": "示波器",
+  "doc_name": "n03857828"
+ },
+ "689": {
+  "chinese_name": "罩裙",
+  "doc_name": "n03866082"
+ },
+ "690": {
+  "chinese_name": "牛车",
+  "doc_name": "n03868242"
+ },
+ "691": {
+  "chinese_name": "氧气面罩",
+  "doc_name": "n03868863"
+ },
+ "692": {
+  "chinese_name": "包装",
+  "doc_name": "n03871628"
+ },
+ "693": {
+  "chinese_name": "船桨",
+  "doc_name": "n03873416"
+ },
+ "694": {
+  "chinese_name": "明轮",
+  "doc_name": "n03874293"
+ },
+ "695": {
+  "chinese_name": "挂锁",
+  "doc_name": "n03874599"
+ },
+ "696": {
+  "chinese_name": "画笔",
+  "doc_name": "n03876231"
+ },
+ "697": {
+  "chinese_name": "睡衣",
+  "doc_name": "n03877472"
+ },
+ "698": {
+  "chinese_name": "宫殿",
+  "doc_name": "n03877845"
+ },
+ "699": {
+  "chinese_name": "排箫",
+  "doc_name": "n03884397"
+ },
+ "700": {
+  "chinese_name": "纸巾",
+  "doc_name": "n03887697"
+ },
+ "701": {
+  "chinese_name": "降落伞",
+  "doc_name": "n03888257"
+ },
+ "702": {
+  "chinese_name": "双杠",
+  "doc_name": "n03888605"
+ },
+ "703": {
+  "chinese_name": "公园长椅",
+  "doc_name": "n03891251"
+ },
+ "704": {
+  "chinese_name": "停车收费表",
+  "doc_name": "n03891332"
+ },
+ "705": {
+  "chinese_name": "客车",
+  "doc_name": "n03895866"
+ },
+ "706": {
+  "chinese_name": "露台",
+  "doc_name": "n03899768"
+ },
+ "707": {
+  "chinese_name": "付费电话",
+  "doc_name": "n03902125"
+ },
+ "708": {
+  "chinese_name": "基座",
+  "doc_name": "n03903868"
+ },
+ "709": {
+  "chinese_name": "铅笔盒",
+  "doc_name": "n03908618"
+ },
+ "710": {
+  "chinese_name": "卷笔刀",
+  "doc_name": "n03908714"
+ },
+ "711": {
+  "chinese_name": "香水（瓶）",
+  "doc_name": "n03916031"
+ },
+ "712": {
+  "chinese_name": "培养皿",
+  "doc_name": "n03920288"
+ },
+ "713": {
+  "chinese_name": "复印机",
+  "doc_name": "n03924679"
+ },
+ "714": {
+  "chinese_name": "拨弦片",
+  "doc_name": "n03929660"
+ },
+ "715": {
+  "chinese_name": "尖顶头盔",
+  "doc_name": "n03929855"
+ },
+ "716": {
+  "chinese_name": "栅栏",
+  "doc_name": "n03930313"
+ },
+ "717": {
+  "chinese_name": "皮卡",
+  "doc_name": "n03930630"
+ },
+ "718": {
+  "chinese_name": "桥墩",
+  "doc_name": "n03933933"
+ },
+ "719": {
+  "chinese_name": "存钱罐",
+  "doc_name": "n03935335"
+ },
+ "720": {
+  "chinese_name": "药瓶",
+  "doc_name": "n03937543"
+ },
+ "721": {
+  "chinese_name": "枕头",
+  "doc_name": "n03938244"
+ },
+ "722": {
+  "chinese_name": "乒乓球",
+  "doc_name": "n03942813"
+ },
+ "723": {
+  "chinese_name": "风车",
+  "doc_name": "n03944341"
+ },
+ "724": {
+  "chinese_name": "海盗船",
+  "doc_name": "n03947888"
+ },
+ "725": {
+  "chinese_name": "水罐",
+  "doc_name": "n03950228"
+ },
+ "726": {
+  "chinese_name": "木工刨",
+  "doc_name": "n03954731"
+ },
+ "727": {
+  "chinese_name": "天文馆",
+  "doc_name": "n03956157"
+ },
+ "728": {
+  "chinese_name": "塑料袋",
+  "doc_name": "n03958227"
+ },
+ "729": {
+  "chinese_name": "板架",
+  "doc_name": "n03961711"
+ },
+ "730": {
+  "chinese_name": "犁型铲雪机",
+  "doc_name": "n03967562"
+ },
+ "731": {
+  "chinese_name": "手压皮碗泵",
+  "doc_name": "n03970156"
+ },
+ "732": {
+  "chinese_name": "宝丽来相机",
+  "doc_name": "n03976467"
+ },
+ "733": {
+  "chinese_name": "电线杆",
+  "doc_name": "n03976657"
+ },
+ "734": {
+  "chinese_name": "警车",
+  "doc_name": "n03977966"
+ },
+ "735": {
+  "chinese_name": "雨披",
+  "doc_name": "n03980874"
+ },
+ "736": {
+  "chinese_name": "台球桌",
+  "doc_name": "n03982430"
+ },
+ "737": {
+  "chinese_name": "充气饮料瓶",
+  "doc_name": "n03983396"
+ },
+ "738": {
+  "chinese_name": "花盆",
+  "doc_name": "n03991062"
+ },
+ "739": {
+  "chinese_name": "陶工旋盘",
+  "doc_name": "n03992509"
+ },
+ "740": {
+  "chinese_name": "电钻",
+  "doc_name": "n03995372"
+ },
+ "741": {
+  "chinese_name": "祈祷垫",
+  "doc_name": "n03998194"
+ },
+ "742": {
+  "chinese_name": "打印机",
+  "doc_name": "n04004767"
+ },
+ "743": {
+  "chinese_name": "监狱",
+  "doc_name": "n04005630"
+ },
+ "744": {
+  "chinese_name": "炮弹",
+  "doc_name": "n04008634"
+ },
+ "745": {
+  "chinese_name": "投影仪",
+  "doc_name": "n04009552"
+ },
+ "746": {
+  "chinese_name": "冰球",
+  "doc_name": "n04019541"
+ },
+ "747": {
+  "chinese_name": "沙包",
+  "doc_name": "n04023962"
+ },
+ "748": {
+  "chinese_name": "钱包",
+  "doc_name": "n04026417"
+ },
+ "749": {
+  "chinese_name": "羽管笔",
+  "doc_name": "n04033901"
+ },
+ "750": {
+  "chinese_name": "被子",
+  "doc_name": "n04033995"
+ },
+ "751": {
+  "chinese_name": "赛车",
+  "doc_name": "n04037443"
+ },
+ "752": {
+  "chinese_name": "球拍",
+  "doc_name": "n04039381"
+ },
+ "753": {
+  "chinese_name": "散热器",
+  "doc_name": "n04040759"
+ },
+ "754": {
+  "chinese_name": "收音机",
+  "doc_name": "n04041544"
+ },
+ "755": {
+  "chinese_name": "射电望远镜",
+  "doc_name": "n04044716"
+ },
+ "756": {
+  "chinese_name": "雨桶",
+  "doc_name": "n04049303"
+ },
+ "757": {
+  "chinese_name": "休闲车",
+  "doc_name": "n04065272"
+ },
+ "758": {
+  "chinese_name": "卷轴",
+  "doc_name": "n04067472"
+ },
+ "759": {
+  "chinese_name": "反射式照相机",
+  "doc_name": "n04069434"
+ },
+ "760": {
+  "chinese_name": "冰箱",
+  "doc_name": "n04070727"
+ },
+ "761": {
+  "chinese_name": "遥控器",
+  "doc_name": "n04074963"
+ },
+ "762": {
+  "chinese_name": "餐厅",
+  "doc_name": "n04081281"
+ },
+ "763": {
+  "chinese_name": "左轮手枪",
+  "doc_name": "n04086273"
+ },
+ "764": {
+  "chinese_name": "步枪",
+  "doc_name": "n04090263"
+ },
+ "765": {
+  "chinese_name": "摇椅",
+  "doc_name": "n04099969"
+ },
+ "766": {
+  "chinese_name": "电转烤肉架",
+  "doc_name": "n04111531"
+ },
+ "767": {
+  "chinese_name": "橡皮",
+  "doc_name": "n04116512"
+ },
+ "768": {
+  "chinese_name": "橄榄球",
+  "doc_name": "n04118538"
+ },
+ "769": {
+  "chinese_name": "直尺",
+  "doc_name": "n04118776"
+ },
+ "770": {
+  "chinese_name": "跑步鞋",
+  "doc_name": "n04120489"
+ },
+ "771": {
+  "chinese_name": "保险柜",
+  "doc_name": "n04125021"
+ },
+ "772": {
+  "chinese_name": "安全别针",
+  "doc_name": "n04127249"
+ },
+ "773": {
+  "chinese_name": "盐瓶（调味用）",
+  "doc_name": "n04131690"
+ },
+ "774": {
+  "chinese_name": "凉鞋",
+  "doc_name": "n04133789"
+ },
+ "775": {
+  "chinese_name": "纱笼",
+  "doc_name": "n04136333"
+ },
+ "776": {
+  "chinese_name": "萨克斯管",
+  "doc_name": "n04141076"
+ },
+ "777": {
+  "chinese_name": "剑鞘",
+  "doc_name": "n04141327"
+ },
+ "778": {
+  "chinese_name": "秤",
+  "doc_name": "n04141975"
+ },
+ "779": {
+  "chinese_name": "校车",
+  "doc_name": "n04146614"
+ },
+ "780": {
+  "chinese_name": "帆船",
+  "doc_name": "n04147183"
+ },
+ "781": {
+  "chinese_name": "记分牌",
+  "doc_name": "n04149813"
+ },
+ "782": {
+  "chinese_name": "屏幕",
+  "doc_name": "n04152593"
+ },
+ "783": {
+  "chinese_name": "螺丝",
+  "doc_name": "n04153751"
+ },
+ "784": {
+  "chinese_name": "螺丝刀",
+  "doc_name": "n04154565"
+ },
+ "785": {
+  "chinese_name": "安全带",
+  "doc_name": "n04162706"
+ },
+ "786": {
+  "chinese_name": "缝纫机",
+  "doc_name": "n04179913"
+ },
+ "787": {
+  "chinese_name": "盾牌",
+  "doc_name": "n04192698"
+ },
+ "788": {
+  "chinese_name": "皮鞋店",
+  "doc_name": "n04200800"
+ },
+ "789": {
+  "chinese_name": "障子",
+  "doc_name": "n04201297"
+ },
+ "790": {
+  "chinese_name": "购物篮",
+  "doc_name": "n04204238"
+ },
+ "791": {
+  "chinese_name": "购物车",
+  "doc_name": "n04204347"
+ },
+ "792": {
+  "chinese_name": "铁锹",
+  "doc_name": "n04208210"
+ },
+ "793": {
+  "chinese_name": "浴帽",
+  "doc_name": "n04209133"
+ },
+ "794": {
+  "chinese_name": "浴帘",
+  "doc_name": "n04209239"
+ },
+ "795": {
+  "chinese_name": "滑雪板",
+  "doc_name": "n04228054"
+ },
+ "796": {
+  "chinese_name": "滑雪面罩",
+  "doc_name": "n04229816"
+ },
+ "797": {
+  "chinese_name": "睡袋",
+  "doc_name": "n04235860"
+ },
+ "798": {
+  "chinese_name": "滑尺",
+  "doc_name": "n04238763"
+ },
+ "799": {
+  "chinese_name": "滑动门",
+  "doc_name": "n04239074"
+ },
+ "800": {
+  "chinese_name": "角子老虎机",
+  "doc_name": "n04243546"
+ },
+ "801": {
+  "chinese_name": "潜水通气管",
+  "doc_name": "n04251144"
+ },
+ "802": {
+  "chinese_name": "雪橇",
+  "doc_name": "n04252077"
+ },
+ "803": {
+  "chinese_name": "扫雪机",
+  "doc_name": "n04252225"
+ },
+ "804": {
+  "chinese_name": "皂液器",
+  "doc_name": "n04254120"
+ },
+ "805": {
+  "chinese_name": "足球",
+  "doc_name": "n04254680"
+ },
+ "806": {
+  "chinese_name": "袜子",
+  "doc_name": "n04254777"
+ },
+ "807": {
+  "chinese_name": "碟式太阳能",
+  "doc_name": "n04258138"
+ },
+ "808": {
+  "chinese_name": "宽边帽",
+  "doc_name": "n04259630"
+ },
+ "809": {
+  "chinese_name": "汤碗",
+  "doc_name": "n04263257"
+ },
+ "810": {
+  "chinese_name": "空格键",
+  "doc_name": "n04264628"
+ },
+ "811": {
+  "chinese_name": "空间加热器",
+  "doc_name": "n04265275"
+ },
+ "812": {
+  "chinese_name": "航天飞机",
+  "doc_name": "n04266014"
+ },
+ "813": {
+  "chinese_name": "铲（搅拌或涂敷用的）",
+  "doc_name": "n04270147"
+ },
+ "814": {
+  "chinese_name": "快艇",
+  "doc_name": "n04273569"
+ },
+ "815": {
+  "chinese_name": "蜘蛛网",
+  "doc_name": "n04275548"
+ },
+ "816": {
+  "chinese_name": "纺锤",
+  "doc_name": "n04277352"
+ },
+ "817": {
+  "chinese_name": "跑车",
+  "doc_name": "n04285008"
+ },
+ "818": {
+  "chinese_name": "聚光灯",
+  "doc_name": "n04286575"
+ },
+ "819": {
+  "chinese_name": "舞台",
+  "doc_name": "n04296562"
+ },
+ "820": {
+  "chinese_name": "蒸汽机车",
+  "doc_name": "n04310018"
+ },
+ "821": {
+  "chinese_name": "钢拱桥",
+  "doc_name": "n04311004"
+ },
+ "822": {
+  "chinese_name": "钢滚筒",
+  "doc_name": "n04311174"
+ },
+ "823": {
+  "chinese_name": "听诊器",
+  "doc_name": "n04317175"
+ },
+ "824": {
+  "chinese_name": "女用披肩",
+  "doc_name": "n04325704"
+ },
+ "825": {
+  "chinese_name": "石头墙",
+  "doc_name": "n04326547"
+ },
+ "826": {
+  "chinese_name": "秒表",
+  "doc_name": "n04328186"
+ },
+ "827": {
+  "chinese_name": "火炉",
+  "doc_name": "n04330267"
+ },
+ "828": {
+  "chinese_name": "过滤器",
+  "doc_name": "n04332243"
+ },
+ "829": {
+  "chinese_name": "有轨电车",
+  "doc_name": "n04335435"
+ },
+ "830": {
+  "chinese_name": "担架",
+  "doc_name": "n04336792"
+ },
+ "831": {
+  "chinese_name": "沙发床",
+  "doc_name": "n04344873"
+ },
+ "832": {
+  "chinese_name": "佛塔",
+  "doc_name": "n04346328"
+ },
+ "833": {
+  "chinese_name": "潜艇",
+  "doc_name": "n04347754"
+ },
+ "834": {
+  "chinese_name": "套装",
+  "doc_name": "n04350905"
+ },
+ "835": {
+  "chinese_name": "日晷",
+  "doc_name": "n04355338"
+ },
+ "836": {
+  "chinese_name": "太阳镜",
+  "doc_name": "n04355933"
+ },
+ "837": {
+  "chinese_name": "太阳镜",
+  "doc_name": "n04356056"
+ },
+ "838": {
+  "chinese_name": "防晒霜",
+  "doc_name": "n04357314"
+ },
+ "839": {
+  "chinese_name": "悬索桥",
+  "doc_name": "n04366367"
+ },
+ "840": {
+  "chinese_name": "拖把",
+  "doc_name": "n04367480"
+ },
+ "841": {
+  "chinese_name": "运动衫",
+  "doc_name": "n04370456"
+ },
+ "842": {
+  "chinese_name": "游泳裤",
+  "doc_name": "n04371430"
+ },
+ "843": {
+  "chinese_name": "秋千",
+  "doc_name": "n04371774"
+ },
+ "844": {
+  "chinese_name": "开关",
+  "doc_name": "n04372370"
+ },
+ "845": {
+  "chinese_name": "注射器",
+  "doc_name": "n04376876"
+ },
+ "846": {
+  "chinese_name": "台灯",
+  "doc_name": "n04380533"
+ },
+ "847": {
+  "chinese_name": "坦克",
+  "doc_name": "n04389033"
+ },
+ "848": {
+  "chinese_name": "磁带播放器",
+  "doc_name": "n04392985"
+ },
+ "849": {
+  "chinese_name": "茶壶",
+  "doc_name": "n04398044"
+ },
+ "850": {
+  "chinese_name": "泰迪",
+  "doc_name": "n04399382"
+ },
+ "851": {
+  "chinese_name": "电视",
+  "doc_name": "n04404412"
+ },
+ "852": {
+  "chinese_name": "网球",
+  "doc_name": "n04409515"
+ },
+ "853": {
+  "chinese_name": "茅草",
+  "doc_name": "n04417672"
+ },
+ "854": {
+  "chinese_name": "幕布",
+  "doc_name": "n04418357"
+ },
+ "855": {
+  "chinese_name": "顶针",
+  "doc_name": "n04423845"
+ },
+ "856": {
+  "chinese_name": "脱粒机",
+  "doc_name": "n04428191"
+ },
+ "857": {
+  "chinese_name": "宝座",
+  "doc_name": "n04429376"
+ },
+ "858": {
+  "chinese_name": "瓦屋顶",
+  "doc_name": "n04435653"
+ },
+ "859": {
+  "chinese_name": "烤面包机",
+  "doc_name": "n04442312"
+ },
+ "860": {
+  "chinese_name": "烟草店",
+  "doc_name": "n04443257"
+ },
+ "861": {
+  "chinese_name": "马桶",
+  "doc_name": "n04447861"
+ },
+ "862": {
+  "chinese_name": "火炬",
+  "doc_name": "n04456115"
+ },
+ "863": {
+  "chinese_name": "图腾柱",
+  "doc_name": "n04458633"
+ },
+ "864": {
+  "chinese_name": "拖车",
+  "doc_name": "n04461696"
+ },
+ "865": {
+  "chinese_name": "玩具店",
+  "doc_name": "n04462240"
+ },
+ "866": {
+  "chinese_name": "拖拉机",
+  "doc_name": "n04465501"
+ },
+ "867": {
+  "chinese_name": "拖车",
+  "doc_name": "n04467665"
+ },
+ "868": {
+  "chinese_name": "托盘",
+  "doc_name": "n04476259"
+ },
+ "869": {
+  "chinese_name": "风衣",
+  "doc_name": "n04479046"
+ },
+ "870": {
+  "chinese_name": "三轮车",
+  "doc_name": "n04482393"
+ },
+ "871": {
+  "chinese_name": "三体船",
+  "doc_name": "n04483307"
+ },
+ "872": {
+  "chinese_name": "三脚架",
+  "doc_name": "n04485082"
+ },
+ "873": {
+  "chinese_name": "凯旋门",
+  "doc_name": "n04486054"
+ },
+ "874": {
+  "chinese_name": "无轨电车",
+  "doc_name": "n04487081"
+ },
+ "875": {
+  "chinese_name": "长号",
+  "doc_name": "n04487394"
+ },
+ "876": {
+  "chinese_name": "浴盆",
+  "doc_name": "n04493381"
+ },
+ "877": {
+  "chinese_name": "旋转式栅门",
+  "doc_name": "n04501370"
+ },
+ "878": {
+  "chinese_name": "打字机键盘",
+  "doc_name": "n04505470"
+ },
+ "879": {
+  "chinese_name": "伞",
+  "doc_name": "n04507155"
+ },
+ "880": {
+  "chinese_name": "独轮车",
+  "doc_name": "n04509417"
+ },
+ "881": {
+  "chinese_name": "直立式钢琴",
+  "doc_name": "n04515003"
+ },
+ "882": {
+  "chinese_name": "真空吸尘器",
+  "doc_name": "n04517823"
+ },
+ "883": {
+  "chinese_name": "花瓶",
+  "doc_name": "n04522168"
+ },
+ "884": {
+  "chinese_name": "拱顶",
+  "doc_name": "n04523525"
+ },
+ "885": {
+  "chinese_name": "天鹅绒",
+  "doc_name": "n04525038"
+ },
+ "886": {
+  "chinese_name": "自动售货机",
+  "doc_name": "n04525305"
+ },
+ "887": {
+  "chinese_name": "祭服",
+  "doc_name": "n04532106"
+ },
+ "888": {
+  "chinese_name": "高架桥",
+  "doc_name": "n04532670"
+ },
+ "889": {
+  "chinese_name": "小提琴",
+  "doc_name": "n04536866"
+ },
+ "890": {
+  "chinese_name": "排球",
+  "doc_name": "n04540053"
+ },
+ "891": {
+  "chinese_name": "松饼机",
+  "doc_name": "n04542943"
+ },
+ "892": {
+  "chinese_name": "挂钟",
+  "doc_name": "n04548280"
+ },
+ "893": {
+  "chinese_name": "钱包",
+  "doc_name": "n04548362"
+ },
+ "894": {
+  "chinese_name": "衣柜",
+  "doc_name": "n04550184"
+ },
+ "895": {
+  "chinese_name": "军用飞机",
+  "doc_name": "n04552348"
+ },
+ "896": {
+  "chinese_name": "洗脸盆",
+  "doc_name": "n04553703"
+ },
+ "897": {
+  "chinese_name": "洗衣机",
+  "doc_name": "n04554684"
+ },
+ "898": {
+  "chinese_name": "水瓶",
+  "doc_name": "n04557648"
+ },
+ "899": {
+  "chinese_name": "水壶",
+  "doc_name": "n04560804"
+ },
+ "900": {
+  "chinese_name": "水塔",
+  "doc_name": "n04562935"
+ },
+ "901": {
+  "chinese_name": "威士忌壶",
+  "doc_name": "n04579145"
+ },
+ "902": {
+  "chinese_name": "哨子",
+  "doc_name": "n04579432"
+ },
+ "903": {
+  "chinese_name": "假发",
+  "doc_name": "n04584207"
+ },
+ "904": {
+  "chinese_name": "纱窗",
+  "doc_name": "n04589890"
+ },
+ "905": {
+  "chinese_name": "百叶窗",
+  "doc_name": "n04590129"
+ },
+ "906": {
+  "chinese_name": "温莎领带",
+  "doc_name": "n04591157"
+ },
+ "907": {
+  "chinese_name": "葡萄酒瓶",
+  "doc_name": "n04591713"
+ },
+ "908": {
+  "chinese_name": "飞机翅膀",
+  "doc_name": "n04592741"
+ },
+ "909": {
+  "chinese_name": "炒菜锅",
+  "doc_name": "n04596742"
+ },
+ "910": {
+  "chinese_name": "木制的勺子",
+  "doc_name": "n04597913"
+ },
+ "911": {
+  "chinese_name": "毛织品",
+  "doc_name": "n04599235"
+ },
+ "912": {
+  "chinese_name": "栅栏",
+  "doc_name": "n04604644"
+ },
+ "913": {
+  "chinese_name": "沉船",
+  "doc_name": "n04606251"
+ },
+ "914": {
+  "chinese_name": "双桅船",
+  "doc_name": "n04612504"
+ },
+ "915": {
+  "chinese_name": "蒙古包",
+  "doc_name": "n04613696"
+ },
+ "916": {
+  "chinese_name": "网站",
+  "doc_name": "n06359193"
+ },
+ "917": {
+  "chinese_name": "漫画",
+  "doc_name": "n06596364"
+ },
+ "918": {
+  "chinese_name": "纵横字谜",
+  "doc_name": "n06785654"
+ },
+ "919": {
+  "chinese_name": "路标",
+  "doc_name": "n06794110"
+ },
+ "920": {
+  "chinese_name": "交通信号灯",
+  "doc_name": "n06874185"
+ },
+ "921": {
+  "chinese_name": "防尘罩",
+  "doc_name": "n07248320"
+ },
+ "922": {
+  "chinese_name": "菜单",
+  "doc_name": "n07565083"
+ },
+ "923": {
+  "chinese_name": "盘子",
+  "doc_name": "n07579787"
+ },
+ "924": {
+  "chinese_name": "鳄梨酱",
+  "doc_name": "n07583066"
+ },
+ "925": {
+  "chinese_name": "清汤",
+  "doc_name": "n07584110"
+ },
+ "926": {
+  "chinese_name": "罐焖土豆烧肉",
+  "doc_name": "n07590611"
+ },
+ "927": {
+  "chinese_name": "蛋糕",
+  "doc_name": "n07613480"
+ },
+ "928": {
+  "chinese_name": "冰淇淋",
+  "doc_name": "n07614500"
+ },
+ "929": {
+  "chinese_name": "雪糕",
+  "doc_name": "n07615774"
+ },
+ "930": {
+  "chinese_name": "法式面包",
+  "doc_name": "n07684084"
+ },
+ "931": {
+  "chinese_name": "百吉饼",
+  "doc_name": "n07693725"
+ },
+ "932": {
+  "chinese_name": "椒盐脆饼",
+  "doc_name": "n07695742"
+ },
+ "933": {
+  "chinese_name": "芝士汉堡",
+  "doc_name": "n07697313"
+ },
+ "934": {
+  "chinese_name": "热狗",
+  "doc_name": "n07697537"
+ },
+ "935": {
+  "chinese_name": "土豆泥",
+  "doc_name": "n07711569"
+ },
+ "936": {
+  "chinese_name": "结球甘蓝",
+  "doc_name": "n07714571"
+ },
+ "937": {
+  "chinese_name": "西兰花",
+  "doc_name": "n07714990"
+ },
+ "938": {
+  "chinese_name": "菜花",
+  "doc_name": "n07715103"
+ },
+ "939": {
+  "chinese_name": "绿皮密生西葫芦",
+  "doc_name": "n07716358"
+ },
+ "940": {
+  "chinese_name": "西葫芦",
+  "doc_name": "n07716906"
+ },
+ "941": {
+  "chinese_name": "小青南瓜",
+  "doc_name": "n07717410"
+ },
+ "942": {
+  "chinese_name": "南瓜",
+  "doc_name": "n07717556"
+ },
+ "943": {
+  "chinese_name": "黄瓜",
+  "doc_name": "n07718472"
+ },
+ "944": {
+  "chinese_name": "朝鲜蓟",
+  "doc_name": "n07718747"
+ },
+ "945": {
+  "chinese_name": "甜椒",
+  "doc_name": "n07720875"
+ },
+ "946": {
+  "chinese_name": "刺棘蓟",
+  "doc_name": "n07730033"
+ },
+ "947": {
+  "chinese_name": "蘑菇",
+  "doc_name": "n07734744"
+ },
+ "948": {
+  "chinese_name": "绿苹果",
+  "doc_name": "n07742313"
+ },
+ "949": {
+  "chinese_name": "草莓",
+  "doc_name": "n07745940"
+ },
+ "950": {
+  "chinese_name": "橘子",
+  "doc_name": "n07747607"
+ },
+ "951": {
+  "chinese_name": "柠檬",
+  "doc_name": "n07749582"
+ },
+ "952": {
+  "chinese_name": "无花果",
+  "doc_name": "n07753113"
+ },
+ "953": {
+  "chinese_name": "菠萝",
+  "doc_name": "n07753275"
+ },
+ "954": {
+  "chinese_name": "香蕉",
+  "doc_name": "n07753592"
+ },
+ "955": {
+  "chinese_name": "菠萝蜜",
+  "doc_name": "n07754684"
+ },
+ "956": {
+  "chinese_name": "蛋奶冻苹果",
+  "doc_name": "n07760859"
+ },
+ "957": {
+  "chinese_name": "石榴",
+  "doc_name": "n07768694"
+ },
+ "958": {
+  "chinese_name": "干草",
+  "doc_name": "n07802026"
+ },
+ "959": {
+  "chinese_name": "烤面条加干酪沙司",
+  "doc_name": "n07831146"
+ },
+ "960": {
+  "chinese_name": "巧克力酱",
+  "doc_name": "n07836838"
+ },
+ "961": {
+  "chinese_name": "面团",
+  "doc_name": "n07860988"
+ },
+ "962": {
+  "chinese_name": "瑞士肉包",
+  "doc_name": "n07871810"
+ },
+ "963": {
+  "chinese_name": "披萨",
+  "doc_name": "n07873807"
+ },
+ "964": {
+  "chinese_name": "馅饼",
+  "doc_name": "n07875152"
+ },
+ "965": {
+  "chinese_name": "卷饼",
+  "doc_name": "n07880968"
+ },
+ "966": {
+  "chinese_name": "红葡萄酒",
+  "doc_name": "n07892512"
+ },
+ "967": {
+  "chinese_name": "意大利浓咖啡",
+  "doc_name": "n07920052"
+ },
+ "968": {
+  "chinese_name": "杯子",
+  "doc_name": "n07930864"
+ },
+ "969": {
+  "chinese_name": "蛋酒",
+  "doc_name": "n07932039"
+ },
+ "970": {
+  "chinese_name": "高山",
+  "doc_name": "n09193705"
+ },
+ "971": {
+  "chinese_name": "泡泡",
+  "doc_name": "n09229709"
+ },
+ "972": {
+  "chinese_name": "悬崖",
+  "doc_name": "n09246464"
+ },
+ "973": {
+  "chinese_name": "珊瑚礁",
+  "doc_name": "n09256479"
+ },
+ "974": {
+  "chinese_name": "间歇泉",
+  "doc_name": "n09288635"
+ },
+ "975": {
+  "chinese_name": "湖边",
+  "doc_name": "n09332890"
+ },
+ "976": {
+  "chinese_name": "海角",
+  "doc_name": "n09399592"
+ },
+ "977": {
+  "chinese_name": "沙洲",
+  "doc_name": "n09421951"
+ },
+ "978": {
+  "chinese_name": "海滨",
+  "doc_name": "n09428293"
+ },
+ "979": {
+  "chinese_name": "峡谷",
+  "doc_name": "n09468604"
+ },
+ "980": {
+  "chinese_name": "火山",
+  "doc_name": "n09472597"
+ },
+ "981": {
+  "chinese_name": "棒球",
+  "doc_name": "n09835506"
+ },
+ "982": {
+  "chinese_name": "新郎",
+  "doc_name": "n10148035"
+ },
+ "983": {
+  "chinese_name": "潜水员",
+  "doc_name": "n10565667"
+ },
+ "984": {
+  "chinese_name": "油菜",
+  "doc_name": "n11879895"
+ },
+ "985": {
+  "chinese_name": "雏菊",
+  "doc_name": "n11939491"
+ },
+ "986": {
+  "chinese_name": "杓兰",
+  "doc_name": "n12057211"
+ },
+ "987": {
+  "chinese_name": "玉米",
+  "doc_name": "n12144580"
+ },
+ "988": {
+  "chinese_name": "橡子",
+  "doc_name": "n12267677"
+ },
+ "989": {
+  "chinese_name": "玫瑰果",
+  "doc_name": "n12620546"
+ },
+ "990": {
+  "chinese_name": "七叶树果实",
+  "doc_name": "n12768682"
+ },
+ "991": {
+  "chinese_name": "珊瑚菌",
+  "doc_name": "n12985857"
+ },
+ "992": {
+  "chinese_name": "木耳",
+  "doc_name": "n12998815"
+ },
+ "993": {
+  "chinese_name": "鹿花菌",
+  "doc_name": "n13037406"
+ },
+ "994": {
+  "chinese_name": "鬼笔菌",
+  "doc_name": "n13040303"
+ },
+ "995": {
+  "chinese_name": "地星",
+  "doc_name": "n13044778"
+ },
+ "996": {
+  "chinese_name": "多叶奇果菌",
+  "doc_name": "n13052670"
+ },
+ "997": {
+  "chinese_name": "牛肝菌",
+  "doc_name": "n13054560"
+ },
+ "998": {
+  "chinese_name": "玉米穗",
+  "doc_name": "n13133613"
+ },
+ "999": {
+  "chinese_name": "卫生纸",
+  "doc_name": "n15075141"
+ }
+}
